@@ -1,0 +1,602 @@
+﻿<Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\EntityFramework.6.4.4\build\EntityFramework.props" Condition="Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.props')" />
+  <Import Project="..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" Condition="Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{99C2DE6E-87C3-473D-BB42-10282BA6B97C}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>proyectoWeb</RootNamespace>
+    <AssemblyName>proyectoWeb</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <Use64BitIISExpress />
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform">
+      <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="assets\img\about\1.jpg" />
+    <Content Include="assets\img\about\2.jpg" />
+    <Content Include="assets\img\about\3.jpg" />
+    <Content Include="assets\img\about\4.jpg" />
+    <Content Include="assets\img\close-icon.svg" />
+    <Content Include="assets\img\favicon.ico" />
+    <Content Include="assets\img\header-bg.jpg" />
+    <Content Include="assets\img\logos\creative-market.jpg" />
+    <Content Include="assets\img\logos\designmodo.jpg" />
+    <Content Include="assets\img\logos\envato.jpg" />
+    <Content Include="assets\img\logos\themeforest.jpg" />
+    <Content Include="assets\img\map-image.png" />
+    <Content Include="assets\img\navbar-logo.svg" />
+    <Content Include="assets\img\portfolio\01-full.jpg" />
+    <Content Include="assets\img\portfolio\01-thumbnail.jpg" />
+    <Content Include="assets\img\portfolio\02-full.jpg" />
+    <Content Include="assets\img\portfolio\02-thumbnail.jpg" />
+    <Content Include="assets\img\portfolio\03-full.jpg" />
+    <Content Include="assets\img\portfolio\03-thumbnail.jpg" />
+    <Content Include="assets\img\portfolio\04-full.jpg" />
+    <Content Include="assets\img\portfolio\04-thumbnail.jpg" />
+    <Content Include="assets\img\portfolio\05-full.jpg" />
+    <Content Include="assets\img\portfolio\05-thumbnail.jpg" />
+    <Content Include="assets\img\portfolio\06-full.jpg" />
+    <Content Include="assets\img\portfolio\06-thumbnail.jpg" />
+    <Content Include="assets\img\portfolio\cono-naranja.jpg" />
+    <Content Include="assets\img\portfolio\cono-negro.jpg" />
+    <Content Include="assets\img\portfolio\cono-rojo.jpg" />
+    <Content Include="assets\img\portfolio\malteada.jpg" />
+    <Content Include="assets\img\portfolio\muchos1.jpg" />
+    <Content Include="assets\img\portfolio\muchos2.jpg" />
+    <Content Include="assets\img\portfolio\paletas.jpg" />
+    <Content Include="assets\img\portfolio\portada-nieve.jpg" />
+    <Content Include="assets\img\portfolio\soft-serve.jpg" />
+    <Content Include="assets\img\team\1.jpg" />
+    <Content Include="assets\img\team\2.jpg" />
+    <Content Include="assets\img\team\3.jpg" />
+    <Content Include="assets\mail\contact_me.js" />
+    <Content Include="assets\mail\contact_me.php" />
+    <Content Include="assets\mail\jqBootstrapValidation.js" />
+    <Content Include="BackOffice\AgregarProducto.aspx" />
+    <Content Include="BackOffice\AgregarServicio.aspx" />
+    <Content Include="BackOffice\AgregarSucursal.aspx" />
+    <Content Include="BackOffice\AgregarUsuario.aspx" />
+    <Content Include="BackOffice\BuscarContacto.aspx" />
+    <Content Include="BackOffice\BuscarProducto.aspx" />
+    <Content Include="BackOffice\BuscarServicio.aspx" />
+    <Content Include="BackOffice\BuscarSucursal.aspx" />
+    <Content Include="BackOffice\BuscarUsuario.aspx" />
+    <Content Include="BackOffice\ContactosMenu.aspx" />
+    <Content Include="BackOffice\Inicio.aspx" />
+    <Content Include="BackOffice\ModificarProducto.aspx" />
+    <Content Include="BackOffice\ModificarServicio.aspx" />
+    <Content Include="BackOffice\ModificarSucursal.aspx" />
+    <Content Include="BackOffice\ModificarUsuario.aspx" />
+    <Content Include="BackOffice\ProductoMenu.aspx" />
+    <Content Include="BackOffice\ServicioMenu.aspx" />
+    <Content Include="BackOffice\SucursalMenu.aspx" />
+    <Content Include="BackOffice\UsuariosMenu.aspx" />
+    <Content Include="Contactanos.aspx" />
+    <Content Include="Global.asax" />
+    <Content Include="Include\bootstrap-4.4.1-dist\css\bootstrap-grid.css" />
+    <Content Include="Include\bootstrap-4.4.1-dist\css\bootstrap-grid.min.css" />
+    <Content Include="Include\bootstrap-4.4.1-dist\css\bootstrap-reboot.css" />
+    <Content Include="Include\bootstrap-4.4.1-dist\css\bootstrap-reboot.min.css" />
+    <Content Include="Include\bootstrap-4.4.1-dist\css\bootstrap.css" />
+    <Content Include="Include\bootstrap-4.4.1-dist\css\bootstrap.min.css" />
+    <Content Include="Include\bootstrap-4.4.1-dist\js\bootstrap.bundle.js" />
+    <Content Include="Include\bootstrap-4.4.1-dist\js\bootstrap.bundle.min.js" />
+    <Content Include="Include\bootstrap-4.4.1-dist\js\bootstrap.js" />
+    <Content Include="Include\bootstrap-4.4.1-dist\js\bootstrap.min.js" />
+    <Content Include="Include\css\styles.css" />
+    <Content Include="Include\images\andrea.JPG" />
+    <Content Include="Include\images\arcoiris-nieve.jpg" />
+    <Content Include="Include\images\arlene.JPG" />
+    <Content Include="Include\images\banana-split.jpg" />
+    <Content Include="Include\images\cono-cherry.jpg" />
+    <Content Include="Include\images\cono.jpg" />
+    <Content Include="Include\images\conos.jpg" />
+    <Content Include="Include\images\derretir.jpg" />
+    <Content Include="Include\images\derretir2.jpg" />
+    <Content Include="Include\images\fondo.jpg" />
+    <Content Include="Include\images\icono.png" />
+    <Content Include="Include\images\local.jpg" />
+    <Content Include="Include\images\local2.jpg" />
+    <Content Include="Include\images\logo.png" />
+    <Content Include="Include\images\milkshake.jpg" />
+    <Content Include="Include\images\muchos.jpg" />
+    <Content Include="Include\images\naomi.JPG" />
+    <Content Include="Include\images\nieve.jpg" />
+    <Content Include="Include\images\nieveiconoarriba.png" />
+    <Content Include="Include\images\nino.jpg" />
+    <Content Include="Include\images\paletas.jpg" />
+    <Content Include="Include\images\pastel.jpg" />
+    <Content Include="Include\images\sandwich.jpg" />
+    <Content Include="Include\images\sundae.jpg" />
+    <Content Include="Include\js\Ciudad.js" />
+    <Content Include="Include\js\jquery-3.4.1.min.js" />
+    <Content Include="Include\js\scripts.js" />
+    <Content Include="index.aspx" />
+    <Content Include="Login.aspx" />
+    <Content Include="masterassets\css\black-dashboard.css" />
+    <Content Include="masterassets\css\black-dashboard.min.css" />
+    <Content Include="masterassets\css\nucleo-icons.css" />
+    <Content Include="masterassets\demo\demo.css" />
+    <Content Include="masterassets\demo\demo.js" />
+    <Content Include="masterassets\img\12345.png" />
+    <Content Include="masterassets\img\anime3.png" />
+    <Content Include="masterassets\img\anime6.png" />
+    <Content Include="masterassets\img\apple-icon.png" />
+    <Content Include="masterassets\img\bg5.jpg" />
+    <Content Include="masterassets\img\default-avatar.png" />
+    <Content Include="masterassets\img\emilyz.jpg" />
+    <Content Include="masterassets\img\favicon.png" />
+    <Content Include="masterassets\img\header.jpg" />
+    <Content Include="masterassets\img\img_3115.jpg" />
+    <Content Include="masterassets\img\james.jpg" />
+    <Content Include="masterassets\img\mike.jpg" />
+    <Content Include="masterassets\img\now-logo.png" />
+    <Content Include="masterassets\js\black-dashboard.js" />
+    <Content Include="masterassets\js\black-dashboard.min.js" />
+    <Content Include="masterassets\js\core\bootstrap.min.js" />
+    <Content Include="masterassets\js\core\jquery.min.js" />
+    <Content Include="masterassets\js\core\popper.min.js" />
+    <Content Include="masterassets\js\plugins\bootstrap-notify.js" />
+    <Content Include="masterassets\js\plugins\chartjs.min.js" />
+    <Content Include="masterassets\js\plugins\perfect-scrollbar.jquery.min.js" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BackOffice\AgregarProducto.aspx.cs">
+      <DependentUpon>AgregarProducto.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BackOffice\AgregarProducto.aspx.designer.cs">
+      <DependentUpon>AgregarProducto.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BackOffice\AgregarServicio.aspx.cs">
+      <DependentUpon>AgregarServicio.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BackOffice\AgregarServicio.aspx.designer.cs">
+      <DependentUpon>AgregarServicio.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BackOffice\AgregarSucursal.aspx.cs">
+      <DependentUpon>AgregarSucursal.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BackOffice\AgregarSucursal.aspx.designer.cs">
+      <DependentUpon>AgregarSucursal.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BackOffice\AgregarUsuario.aspx.cs">
+      <DependentUpon>AgregarUsuario.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BackOffice\AgregarUsuario.aspx.designer.cs">
+      <DependentUpon>AgregarUsuario.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BackOffice\BuscarContacto.aspx.cs">
+      <DependentUpon>BuscarContacto.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BackOffice\BuscarContacto.aspx.designer.cs">
+      <DependentUpon>BuscarContacto.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BackOffice\BuscarProducto.aspx.cs">
+      <DependentUpon>BuscarProducto.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BackOffice\BuscarProducto.aspx.designer.cs">
+      <DependentUpon>BuscarProducto.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BackOffice\BuscarServicio.aspx.cs">
+      <DependentUpon>BuscarServicio.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BackOffice\BuscarServicio.aspx.designer.cs">
+      <DependentUpon>BuscarServicio.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BackOffice\BuscarSucursal.aspx.cs">
+      <DependentUpon>BuscarSucursal.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BackOffice\BuscarSucursal.aspx.designer.cs">
+      <DependentUpon>BuscarSucursal.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BackOffice\BuscarUsuario.aspx.cs">
+      <DependentUpon>BuscarUsuario.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BackOffice\BuscarUsuario.aspx.designer.cs">
+      <DependentUpon>BuscarUsuario.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BackOffice\ContactosMenu.aspx.cs">
+      <DependentUpon>ContactosMenu.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BackOffice\ContactosMenu.aspx.designer.cs">
+      <DependentUpon>ContactosMenu.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BackOffice\Inicio.aspx.cs">
+      <DependentUpon>Inicio.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BackOffice\Inicio.aspx.designer.cs">
+      <DependentUpon>Inicio.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BackOffice\ModificarProducto.aspx.cs">
+      <DependentUpon>ModificarProducto.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BackOffice\ModificarProducto.aspx.designer.cs">
+      <DependentUpon>ModificarProducto.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BackOffice\ModificarServicio.aspx.cs">
+      <DependentUpon>ModificarServicio.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BackOffice\ModificarServicio.aspx.designer.cs">
+      <DependentUpon>ModificarServicio.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BackOffice\ModificarSucursal.aspx.cs">
+      <DependentUpon>ModificarSucursal.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BackOffice\ModificarSucursal.aspx.designer.cs">
+      <DependentUpon>ModificarSucursal.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BackOffice\ModificarUsuario.aspx.cs">
+      <DependentUpon>ModificarUsuario.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BackOffice\ModificarUsuario.aspx.designer.cs">
+      <DependentUpon>ModificarUsuario.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BackOffice\ProductoMenu.aspx.cs">
+      <DependentUpon>ProductoMenu.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BackOffice\ProductoMenu.aspx.designer.cs">
+      <DependentUpon>ProductoMenu.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BackOffice\ServicioMenu.aspx.cs">
+      <DependentUpon>ServicioMenu.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BackOffice\ServicioMenu.aspx.designer.cs">
+      <DependentUpon>ServicioMenu.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BackOffice\SucursalMenu.aspx.cs">
+      <DependentUpon>SucursalMenu.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BackOffice\SucursalMenu.aspx.designer.cs">
+      <DependentUpon>SucursalMenu.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BackOffice\UsuariosMenu.aspx.cs">
+      <DependentUpon>UsuariosMenu.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BackOffice\UsuariosMenu.aspx.designer.cs">
+      <DependentUpon>UsuariosMenu.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Contactanos.aspx.cs">
+      <DependentUpon>Contactanos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Contactanos.aspx.designer.cs">
+      <DependentUpon>Contactanos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="index.aspx.cs">
+      <DependentUpon>index.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="index.aspx.designer.cs">
+      <DependentUpon>index.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Login.aspx.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Login.aspx.designer.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Maestra.Master.cs">
+      <DependentUpon>Maestra.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Maestra.Master.designer.cs">
+      <DependentUpon>Maestra.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Include\bootstrap-4.4.1-dist\css\bootstrap-grid.css.map" />
+    <Content Include="Include\bootstrap-4.4.1-dist\css\bootstrap-grid.min.css.map" />
+    <Content Include="Include\bootstrap-4.4.1-dist\css\bootstrap-reboot.css.map" />
+    <Content Include="Include\bootstrap-4.4.1-dist\css\bootstrap-reboot.min.css.map" />
+    <Content Include="Include\bootstrap-4.4.1-dist\css\bootstrap.css.map" />
+    <Content Include="Include\bootstrap-4.4.1-dist\css\bootstrap.min.css.map" />
+    <Content Include="Include\bootstrap-4.4.1-dist\js\bootstrap.bundle.js.map" />
+    <Content Include="Include\bootstrap-4.4.1-dist\js\bootstrap.bundle.min.js.map" />
+    <Content Include="Include\bootstrap-4.4.1-dist\js\bootstrap.js.map" />
+    <Content Include="Include\bootstrap-4.4.1-dist\js\bootstrap.min.js.map" />
+    <Content Include="Maestra.Master" />
+    <Content Include="masterassets\css\black-dashboard.css.map" />
+    <Content Include="masterassets\fonts\nucleo.eot" />
+    <Content Include="masterassets\fonts\nucleo.ttf" />
+    <Content Include="masterassets\fonts\nucleo.woff" />
+    <Content Include="masterassets\fonts\nucleo.woff2" />
+    <Content Include="masterassets\js\black-dashboard.js.map" />
+    <Content Include="masterassets\scss\black-dashboard.scss" />
+    <Content Include="masterassets\scss\black-dashboard\bootstrap\bootstrap-grid.scss" />
+    <Content Include="masterassets\scss\black-dashboard\bootstrap\bootstrap-reboot.scss" />
+    <Content Include="masterassets\scss\black-dashboard\bootstrap\bootstrap.scss" />
+    <Content Include="masterassets\scss\black-dashboard\bootstrap\mixins\_alert.scss" />
+    <Content Include="masterassets\scss\black-dashboard\bootstrap\mixins\_background-variant.scss" />
+    <Content Include="masterassets\scss\black-dashboard\bootstrap\mixins\_badge.scss" />
+    <Content Include="masterassets\scss\black-dashboard\bootstrap\mixins\_border-radius.scss" />
+    <Content Include="masterassets\scss\black-dashboard\bootstrap\mixins\_box-shadow.scss" />
+    <Content Include="masterassets\scss\black-dashboard\bootstrap\mixins\_breakpoints.scss" />
+    <Content Include="masterassets\scss\black-dashboard\bootstrap\mixins\_buttons.scss" />
+    <Content Include="masterassets\scss\black-dashboard\bootstrap\mixins\_caret.scss" />
+    <Content Include="masterassets\scss\black-dashboard\bootstrap\mixins\_clearfix.scss" />
+    <Content Include="masterassets\scss\black-dashboard\bootstrap\mixins\_deprecate.scss" />
+    <Content Include="masterassets\scss\black-dashboard\bootstrap\mixins\_float.scss" />
+    <Content Include="masterassets\scss\black-dashboard\bootstrap\mixins\_forms.scss" />
+    <Content Include="masterassets\scss\black-dashboard\bootstrap\mixins\_gradients.scss" />
+    <Content Include="masterassets\scss\black-dashboard\bootstrap\mixins\_grid-framework.scss" />
+    <Content Include="masterassets\scss\black-dashboard\bootstrap\mixins\_grid.scss" />
+    <Content Include="masterassets\scss\black-dashboard\bootstrap\mixins\_hover.scss" />
+    <Content Include="masterassets\scss\black-dashboard\bootstrap\mixins\_image.scss" />
+    <Content Include="masterassets\scss\black-dashboard\bootstrap\mixins\_list-group.scss" />
+    <Content Include="masterassets\scss\black-dashboard\bootstrap\mixins\_lists.scss" />
+    <Content Include="masterassets\scss\black-dashboard\bootstrap\mixins\_nav-divider.scss" />
+    <Content Include="masterassets\scss\black-dashboard\bootstrap\mixins\_pagination.scss" />
+    <Content Include="masterassets\scss\black-dashboard\bootstrap\mixins\_reset-text.scss" />
+    <Content Include="masterassets\scss\black-dashboard\bootstrap\mixins\_resize.scss" />
+    <Content Include="masterassets\scss\black-dashboard\bootstrap\mixins\_screen-reader.scss" />
+    <Content Include="masterassets\scss\black-dashboard\bootstrap\mixins\_size.scss" />
+    <Content Include="masterassets\scss\black-dashboard\bootstrap\mixins\_table-row.scss" />
+    <Content Include="masterassets\scss\black-dashboard\bootstrap\mixins\_text-emphasis.scss" />
+    <Content Include="masterassets\scss\black-dashboard\bootstrap\mixins\_text-hide.scss" />
+    <Content Include="masterassets\scss\black-dashboard\bootstrap\mixins\_text-truncate.scss" />
+    <Content Include="masterassets\scss\black-dashboard\bootstrap\mixins\_transition.scss" />
+    <Content Include="masterassets\scss\black-dashboard\bootstrap\mixins\_visibility.scss" />
+    <Content Include="masterassets\scss\black-dashboard\bootstrap\utilities\_align.scss" />
+    <Content Include="masterassets\scss\black-dashboard\bootstrap\utilities\_background.scss" />
+    <Content Include="masterassets\scss\black-dashboard\bootstrap\utilities\_borders.scss" />
+    <Content Include="masterassets\scss\black-dashboard\bootstrap\utilities\_clearfix.scss" />
+    <Content Include="masterassets\scss\black-dashboard\bootstrap\utilities\_display.scss" />
+    <Content Include="masterassets\scss\black-dashboard\bootstrap\utilities\_embed.scss" />
+    <Content Include="masterassets\scss\black-dashboard\bootstrap\utilities\_flex.scss" />
+    <Content Include="masterassets\scss\black-dashboard\bootstrap\utilities\_float.scss" />
+    <Content Include="masterassets\scss\black-dashboard\bootstrap\utilities\_overflow.scss" />
+    <Content Include="masterassets\scss\black-dashboard\bootstrap\utilities\_position.scss" />
+    <Content Include="masterassets\scss\black-dashboard\bootstrap\utilities\_screenreaders.scss" />
+    <Content Include="masterassets\scss\black-dashboard\bootstrap\utilities\_shadows.scss" />
+    <Content Include="masterassets\scss\black-dashboard\bootstrap\utilities\_sizing.scss" />
+    <Content Include="masterassets\scss\black-dashboard\bootstrap\utilities\_spacing.scss" />
+    <Content Include="masterassets\scss\black-dashboard\bootstrap\utilities\_stretched-link.scss" />
+    <Content Include="masterassets\scss\black-dashboard\bootstrap\utilities\_text.scss" />
+    <Content Include="masterassets\scss\black-dashboard\bootstrap\utilities\_visibility.scss" />
+    <Content Include="masterassets\scss\black-dashboard\bootstrap\vendor\_rfs.scss" />
+    <Content Include="masterassets\scss\black-dashboard\bootstrap\_alert.scss" />
+    <Content Include="masterassets\scss\black-dashboard\bootstrap\_badge.scss" />
+    <Content Include="masterassets\scss\black-dashboard\bootstrap\_breadcrumb.scss" />
+    <Content Include="masterassets\scss\black-dashboard\bootstrap\_button-group.scss" />
+    <Content Include="masterassets\scss\black-dashboard\bootstrap\_buttons.scss" />
+    <Content Include="masterassets\scss\black-dashboard\bootstrap\_card.scss" />
+    <Content Include="masterassets\scss\black-dashboard\bootstrap\_carousel.scss" />
+    <Content Include="masterassets\scss\black-dashboard\bootstrap\_close.scss" />
+    <Content Include="masterassets\scss\black-dashboard\bootstrap\_code.scss" />
+    <Content Include="masterassets\scss\black-dashboard\bootstrap\_custom-forms.scss" />
+    <Content Include="masterassets\scss\black-dashboard\bootstrap\_dropdown.scss" />
+    <Content Include="masterassets\scss\black-dashboard\bootstrap\_forms.scss" />
+    <Content Include="masterassets\scss\black-dashboard\bootstrap\_functions.scss" />
+    <Content Include="masterassets\scss\black-dashboard\bootstrap\_grid.scss" />
+    <Content Include="masterassets\scss\black-dashboard\bootstrap\_images.scss" />
+    <Content Include="masterassets\scss\black-dashboard\bootstrap\_input-group.scss" />
+    <Content Include="masterassets\scss\black-dashboard\bootstrap\_jumbotron.scss" />
+    <Content Include="masterassets\scss\black-dashboard\bootstrap\_list-group.scss" />
+    <Content Include="masterassets\scss\black-dashboard\bootstrap\_media.scss" />
+    <Content Include="masterassets\scss\black-dashboard\bootstrap\_mixins.scss" />
+    <Content Include="masterassets\scss\black-dashboard\bootstrap\_modal.scss" />
+    <Content Include="masterassets\scss\black-dashboard\bootstrap\_nav.scss" />
+    <Content Include="masterassets\scss\black-dashboard\bootstrap\_navbar.scss" />
+    <Content Include="masterassets\scss\black-dashboard\bootstrap\_pagination.scss" />
+    <Content Include="masterassets\scss\black-dashboard\bootstrap\_popover.scss" />
+    <Content Include="masterassets\scss\black-dashboard\bootstrap\_print.scss" />
+    <Content Include="masterassets\scss\black-dashboard\bootstrap\_progress.scss" />
+    <Content Include="masterassets\scss\black-dashboard\bootstrap\_reboot.scss" />
+    <Content Include="masterassets\scss\black-dashboard\bootstrap\_root.scss" />
+    <Content Include="masterassets\scss\black-dashboard\bootstrap\_spinners.scss" />
+    <Content Include="masterassets\scss\black-dashboard\bootstrap\_tables.scss" />
+    <Content Include="masterassets\scss\black-dashboard\bootstrap\_toasts.scss" />
+    <Content Include="masterassets\scss\black-dashboard\bootstrap\_tooltip.scss" />
+    <Content Include="masterassets\scss\black-dashboard\bootstrap\_transitions.scss" />
+    <Content Include="masterassets\scss\black-dashboard\bootstrap\_type.scss" />
+    <Content Include="masterassets\scss\black-dashboard\bootstrap\_utilities.scss" />
+    <Content Include="masterassets\scss\black-dashboard\bootstrap\_variables.scss" />
+    <Content Include="masterassets\scss\black-dashboard\custom\cards\_card-chart.scss" />
+    <Content Include="masterassets\scss\black-dashboard\custom\cards\_card-map.scss" />
+    <Content Include="masterassets\scss\black-dashboard\custom\cards\_card-plain.scss" />
+    <Content Include="masterassets\scss\black-dashboard\custom\cards\_card-task.scss" />
+    <Content Include="masterassets\scss\black-dashboard\custom\cards\_card-user.scss" />
+    <Content Include="masterassets\scss\black-dashboard\custom\mixins\opacity.scss" />
+    <Content Include="masterassets\scss\black-dashboard\custom\mixins\_alert.scss" />
+    <Content Include="masterassets\scss\black-dashboard\custom\mixins\_background-variant.scss" />
+    <Content Include="masterassets\scss\black-dashboard\custom\mixins\_badges.scss" />
+    <Content Include="masterassets\scss\black-dashboard\custom\mixins\_buttons.scss" />
+    <Content Include="masterassets\scss\black-dashboard\custom\mixins\_dropdown.scss" />
+    <Content Include="masterassets\scss\black-dashboard\custom\mixins\_forms.scss" />
+    <Content Include="masterassets\scss\black-dashboard\custom\mixins\_icon.scss" />
+    <Content Include="masterassets\scss\black-dashboard\custom\mixins\_inputs.scss" />
+    <Content Include="masterassets\scss\black-dashboard\custom\mixins\_modals.scss" />
+    <Content Include="masterassets\scss\black-dashboard\custom\mixins\_page-header.scss" />
+    <Content Include="masterassets\scss\black-dashboard\custom\mixins\_popovers.scss" />
+    <Content Include="masterassets\scss\black-dashboard\custom\mixins\_vendor-prefixes.scss" />
+    <Content Include="masterassets\scss\black-dashboard\custom\mixins\_wizard.scss" />
+    <Content Include="masterassets\scss\black-dashboard\custom\utilities\_backgrounds.scss" />
+    <Content Include="masterassets\scss\black-dashboard\custom\utilities\_floating.scss" />
+    <Content Include="masterassets\scss\black-dashboard\custom\utilities\_helper.scss" />
+    <Content Include="masterassets\scss\black-dashboard\custom\utilities\_position.scss" />
+    <Content Include="masterassets\scss\black-dashboard\custom\utilities\_shadows.scss" />
+    <Content Include="masterassets\scss\black-dashboard\custom\utilities\_sizing.scss" />
+    <Content Include="masterassets\scss\black-dashboard\custom\utilities\_spacing.scss" />
+    <Content Include="masterassets\scss\black-dashboard\custom\utilities\_text.scss" />
+    <Content Include="masterassets\scss\black-dashboard\custom\utilities\_transform.scss" />
+    <Content Include="masterassets\scss\black-dashboard\custom\vendor\_plugin-animate-bootstrap-notify.scss" />
+    <Content Include="masterassets\scss\black-dashboard\custom\vendor\_plugin-perfect-scrollbar.scss" />
+    <Content Include="masterassets\scss\black-dashboard\custom\_alerts.scss" />
+    <Content Include="masterassets\scss\black-dashboard\custom\_buttons.scss" />
+    <Content Include="masterassets\scss\black-dashboard\custom\_card.scss" />
+    <Content Include="masterassets\scss\black-dashboard\custom\_checkboxes-radio.scss" />
+    <Content Include="masterassets\scss\black-dashboard\custom\_dropdown.scss" />
+    <Content Include="masterassets\scss\black-dashboard\custom\_example-pages.scss" />
+    <Content Include="masterassets\scss\black-dashboard\custom\_fixed-plugin.scss" />
+    <Content Include="masterassets\scss\black-dashboard\custom\_footer.scss" />
+    <Content Include="masterassets\scss\black-dashboard\custom\_forms.scss" />
+    <Content Include="masterassets\scss\black-dashboard\custom\_functions.scss" />
+    <Content Include="masterassets\scss\black-dashboard\custom\_images.scss" />
+    <Content Include="masterassets\scss\black-dashboard\custom\_input-group.scss" />
+    <Content Include="masterassets\scss\black-dashboard\custom\_misc.scss" />
+    <Content Include="masterassets\scss\black-dashboard\custom\_mixins.scss" />
+    <Content Include="masterassets\scss\black-dashboard\custom\_modal.scss" />
+    <Content Include="masterassets\scss\black-dashboard\custom\_navbar.scss" />
+    <Content Include="masterassets\scss\black-dashboard\custom\_rtl.scss" />
+    <Content Include="masterassets\scss\black-dashboard\custom\_sidebar-and-main-panel.scss" />
+    <Content Include="masterassets\scss\black-dashboard\custom\_tables.scss" />
+    <Content Include="masterassets\scss\black-dashboard\custom\_type.scss" />
+    <Content Include="masterassets\scss\black-dashboard\custom\_utilities.scss" />
+    <Content Include="masterassets\scss\black-dashboard\custom\_variables.scss" />
+    <Content Include="masterassets\scss\black-dashboard\custom\_white-content.scss" />
+    <Content Include="masterassets\scss\black-dashboard\plugins\_plugin-perfect-scrollbar.scss" />
+    <Content Include="masterassets\scss\black-dashboard\_buttons.scss" />
+    <Content Include="masterassets\scss\black-dashboard\_typography.scss" />
+    <None Include="packages.config" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\" />
+    <Folder Include="Models\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CONTROLADOR\CONTROLADOR.csproj">
+      <Project>{35B2A579-6870-4A5E-AE7A-68C0B4E7D372}</Project>
+      <Name>CONTROLADOR</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MODELO\MODELO.csproj">
+      <Project>{3c9550c2-4eeb-4229-a947-ef1f3255121a}</Project>
+      <Name>MODELO</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>49448</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:49448/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>Este proyecto hace referencia a los paquetes NuGet que faltan en este equipo. Use la restauración de paquetes NuGet para descargarlos. Para obtener más información, consulte http://go.microsoft.com/fwlink/?LinkID=322105. El archivo que falta es {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.4\build\EntityFramework.props'))" />
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.4\build\EntityFramework.targets'))" />
+  </Target>
+  <Import Project="..\packages\EntityFramework.6.4.4\build\EntityFramework.targets" Condition="Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.targets')" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

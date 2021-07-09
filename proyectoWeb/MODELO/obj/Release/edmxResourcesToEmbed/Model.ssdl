@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="GOGOModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Ciudad">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="estado_id" Type="int" Nullable="false" />
+    <Property Name="clave" Type="int" />
+    <Property Name="nombre" Type="varchar" MaxLength="76" />
+    <Property Name="abrev" Type="varchar" MaxLength="6" />
+    <Property Name="activo" Type="bit" />
+  </EntityType>
+  <EntityType Name="Contacto">
+    <Key>
+      <PropertyRef Name="usuario_id" />
+    </Key>
+    <Property Name="usuario_id" Type="int" Nullable="false" />
+    <Property Name="estado_id" Type="int" Nullable="false" />
+    <Property Name="ciudad_id" Type="int" Nullable="false" />
+    <Property Name="nombre" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="primerApellido" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="segundoApellido" Type="varchar" MaxLength="50" />
+    <Property Name="email" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="telefono" Type="varchar" MaxLength="10" />
+    <Property Name="mensaje" Type="varchar" MaxLength="500" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Estado">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="clave" Type="int" />
+    <Property Name="nombre" Type="varchar" MaxLength="40" />
+    <Property Name="abrev" Type="varchar" MaxLength="10" />
+    <Property Name="activo" Type="bit" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <Association Name="FK__Ciudad__estado_i__267ABA7A">
+    <End Role="Estado" Type="Self.Estado" Multiplicity="1" />
+    <End Role="Ciudad" Type="Self.Ciudad" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Estado">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Ciudad">
+        <PropertyRef Name="estado_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Usuario_Ciudad">
+    <End Role="Ciudad" Type="Self.Ciudad" Multiplicity="1" />
+    <End Role="Contacto" Type="Self.Contacto" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Ciudad">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Contacto">
+        <PropertyRef Name="ciudad_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Usuario_Usuario">
+    <End Role="Estado" Type="Self.Estado" Multiplicity="1" />
+    <End Role="Contacto" Type="Self.Contacto" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Estado">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Contacto">
+        <PropertyRef Name="estado_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="GOGOModelStoreContainer">
+    <EntitySet Name="Ciudad" EntityType="Self.Ciudad" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Contacto" EntityType="Self.Contacto" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Estado" EntityType="Self.Estado" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__Ciudad__estado_i__267ABA7A" Association="Self.FK__Ciudad__estado_i__267ABA7A">
+      <End Role="Estado" EntitySet="Estado" />
+      <End Role="Ciudad" EntitySet="Ciudad" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Usuario_Ciudad" Association="Self.FK_Usuario_Ciudad">
+      <End Role="Ciudad" EntitySet="Ciudad" />
+      <End Role="Contacto" EntitySet="Contacto" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Usuario_Usuario" Association="Self.FK_Usuario_Usuario">
+      <End Role="Estado" EntitySet="Estado" />
+      <End Role="Contacto" EntitySet="Contacto" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

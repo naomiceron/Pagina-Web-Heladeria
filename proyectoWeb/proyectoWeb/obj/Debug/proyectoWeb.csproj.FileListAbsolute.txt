@@ -1,0 +1,782 @@
+C:\Users\Naomi\Desktop\landing-page\proyectoWeb\proyectoWeb\bin\proyectoWeb.dll.config
+C:\Users\Naomi\Desktop\landing-page\proyectoWeb\proyectoWeb\bin\proyectoWeb.dll
+C:\Users\Naomi\Desktop\landing-page\proyectoWeb\proyectoWeb\bin\proyectoWeb.pdb
+C:\Users\Naomi\Desktop\landing-page\proyectoWeb\proyectoWeb\bin\roslyn\csc.exe
+C:\Users\Naomi\Desktop\landing-page\proyectoWeb\proyectoWeb\bin\roslyn\csc.exe.config
+C:\Users\Naomi\Desktop\landing-page\proyectoWeb\proyectoWeb\bin\roslyn\csc.rsp
+C:\Users\Naomi\Desktop\landing-page\proyectoWeb\proyectoWeb\bin\roslyn\csi.exe
+C:\Users\Naomi\Desktop\landing-page\proyectoWeb\proyectoWeb\bin\roslyn\csi.exe.config
+C:\Users\Naomi\Desktop\landing-page\proyectoWeb\proyectoWeb\bin\roslyn\csi.rsp
+C:\Users\Naomi\Desktop\landing-page\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Naomi\Desktop\landing-page\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Naomi\Desktop\landing-page\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Naomi\Desktop\landing-page\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Naomi\Desktop\landing-page\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Naomi\Desktop\landing-page\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Naomi\Desktop\landing-page\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Naomi\Desktop\landing-page\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Naomi\Desktop\landing-page\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Naomi\Desktop\landing-page\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Naomi\Desktop\landing-page\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Naomi\Desktop\landing-page\proyectoWeb\proyectoWeb\bin\roslyn\System.AppContext.dll
+C:\Users\Naomi\Desktop\landing-page\proyectoWeb\proyectoWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Naomi\Desktop\landing-page\proyectoWeb\proyectoWeb\bin\roslyn\System.Console.dll
+C:\Users\Naomi\Desktop\landing-page\proyectoWeb\proyectoWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Naomi\Desktop\landing-page\proyectoWeb\proyectoWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Naomi\Desktop\landing-page\proyectoWeb\proyectoWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\Naomi\Desktop\landing-page\proyectoWeb\proyectoWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Naomi\Desktop\landing-page\proyectoWeb\proyectoWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Naomi\Desktop\landing-page\proyectoWeb\proyectoWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Naomi\Desktop\landing-page\proyectoWeb\proyectoWeb\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Naomi\Desktop\landing-page\proyectoWeb\proyectoWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Naomi\Desktop\landing-page\proyectoWeb\proyectoWeb\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Naomi\Desktop\landing-page\proyectoWeb\proyectoWeb\bin\roslyn\System.Security.Claims.dll
+C:\Users\Naomi\Desktop\landing-page\proyectoWeb\proyectoWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Naomi\Desktop\landing-page\proyectoWeb\proyectoWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Naomi\Desktop\landing-page\proyectoWeb\proyectoWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Naomi\Desktop\landing-page\proyectoWeb\proyectoWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Naomi\Desktop\landing-page\proyectoWeb\proyectoWeb\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Naomi\Desktop\landing-page\proyectoWeb\proyectoWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Naomi\Desktop\landing-page\proyectoWeb\proyectoWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\Naomi\Desktop\landing-page\proyectoWeb\proyectoWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Naomi\Desktop\landing-page\proyectoWeb\proyectoWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Naomi\Desktop\landing-page\proyectoWeb\proyectoWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Naomi\Desktop\landing-page\proyectoWeb\proyectoWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Naomi\Desktop\landing-page\proyectoWeb\proyectoWeb\bin\roslyn\vbc.exe
+C:\Users\Naomi\Desktop\landing-page\proyectoWeb\proyectoWeb\bin\roslyn\vbc.exe.config
+C:\Users\Naomi\Desktop\landing-page\proyectoWeb\proyectoWeb\bin\roslyn\vbc.rsp
+C:\Users\Naomi\Desktop\landing-page\proyectoWeb\proyectoWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Naomi\Desktop\landing-page\proyectoWeb\proyectoWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Naomi\Desktop\landing-page\proyectoWeb\proyectoWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Naomi\Desktop\landing-page\proyectoWeb\proyectoWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Naomi\Desktop\landing-page\proyectoWeb\proyectoWeb\obj\Debug\proyectoWeb.csprojAssemblyReference.cache
+C:\Users\Naomi\Desktop\landing-page\proyectoWeb\proyectoWeb\obj\Debug\proyectoWeb.csproj.CoreCompileInputs.cache
+C:\Users\Naomi\Desktop\landing-page\proyectoWeb\proyectoWeb\obj\Debug\proyectoWeb.csproj.CopyComplete
+C:\Users\Naomi\Desktop\landing-page\proyectoWeb\proyectoWeb\obj\Debug\proyectoWeb.dll
+C:\Users\Naomi\Desktop\landing-page\proyectoWeb\proyectoWeb\obj\Debug\proyectoWeb.pdb
+C:\Users\andre\Downloads\proyectoWeb\proyectoWeb\proyectoWeb\bin\proyectoWeb.dll.config
+C:\Users\andre\Downloads\proyectoWeb\proyectoWeb\proyectoWeb\bin\proyectoWeb.dll
+C:\Users\andre\Downloads\proyectoWeb\proyectoWeb\proyectoWeb\bin\proyectoWeb.pdb
+C:\Users\andre\Downloads\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\csc.exe
+C:\Users\andre\Downloads\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\csc.exe.config
+C:\Users\andre\Downloads\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\csc.rsp
+C:\Users\andre\Downloads\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\csi.exe
+C:\Users\andre\Downloads\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\csi.exe.config
+C:\Users\andre\Downloads\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\csi.rsp
+C:\Users\andre\Downloads\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\andre\Downloads\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\andre\Downloads\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\andre\Downloads\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\andre\Downloads\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\andre\Downloads\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\andre\Downloads\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\andre\Downloads\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\andre\Downloads\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\andre\Downloads\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\andre\Downloads\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\andre\Downloads\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.AppContext.dll
+C:\Users\andre\Downloads\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\andre\Downloads\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Console.dll
+C:\Users\andre\Downloads\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\andre\Downloads\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\andre\Downloads\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\andre\Downloads\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\andre\Downloads\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\andre\Downloads\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\andre\Downloads\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.IO.Pipes.dll
+C:\Users\andre\Downloads\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\andre\Downloads\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\andre\Downloads\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Security.Claims.dll
+C:\Users\andre\Downloads\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\andre\Downloads\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\andre\Downloads\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\andre\Downloads\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\andre\Downloads\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\andre\Downloads\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\andre\Downloads\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\andre\Downloads\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\andre\Downloads\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\andre\Downloads\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\andre\Downloads\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\andre\Downloads\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\vbc.exe
+C:\Users\andre\Downloads\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\vbc.exe.config
+C:\Users\andre\Downloads\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\vbc.rsp
+C:\Users\andre\Downloads\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\andre\Downloads\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\andre\Downloads\proyectoWeb\proyectoWeb\proyectoWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\andre\Downloads\proyectoWeb\proyectoWeb\proyectoWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\andre\Downloads\proyectoWeb\proyectoWeb\proyectoWeb\obj\Debug\proyectoWeb.csprojAssemblyReference.cache
+C:\Users\andre\Downloads\proyectoWeb\proyectoWeb\proyectoWeb\obj\Debug\proyectoWeb.csproj.CopyComplete
+C:\Users\andre\Downloads\proyectoWeb\proyectoWeb\proyectoWeb\obj\Debug\proyectoWeb.dll
+C:\Users\andre\Downloads\proyectoWeb\proyectoWeb\proyectoWeb\obj\Debug\proyectoWeb.pdb
+C:\Users\Naomi\Desktop\landing-page\1\proyectoWeb\proyectoWeb\proyectoWeb\bin\proyectoWeb.dll.config
+C:\Users\Naomi\Desktop\landing-page\1\proyectoWeb\proyectoWeb\proyectoWeb\bin\proyectoWeb.dll
+C:\Users\Naomi\Desktop\landing-page\1\proyectoWeb\proyectoWeb\proyectoWeb\bin\proyectoWeb.pdb
+C:\Users\Naomi\Desktop\landing-page\1\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\csc.exe
+C:\Users\Naomi\Desktop\landing-page\1\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\csc.exe.config
+C:\Users\Naomi\Desktop\landing-page\1\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\csc.rsp
+C:\Users\Naomi\Desktop\landing-page\1\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\csi.exe
+C:\Users\Naomi\Desktop\landing-page\1\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\csi.exe.config
+C:\Users\Naomi\Desktop\landing-page\1\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\csi.rsp
+C:\Users\Naomi\Desktop\landing-page\1\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Naomi\Desktop\landing-page\1\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Naomi\Desktop\landing-page\1\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Naomi\Desktop\landing-page\1\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Naomi\Desktop\landing-page\1\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Naomi\Desktop\landing-page\1\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Naomi\Desktop\landing-page\1\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Naomi\Desktop\landing-page\1\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Naomi\Desktop\landing-page\1\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Naomi\Desktop\landing-page\1\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Naomi\Desktop\landing-page\1\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Naomi\Desktop\landing-page\1\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.AppContext.dll
+C:\Users\Naomi\Desktop\landing-page\1\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Naomi\Desktop\landing-page\1\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Console.dll
+C:\Users\Naomi\Desktop\landing-page\1\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Naomi\Desktop\landing-page\1\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Naomi\Desktop\landing-page\1\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\Naomi\Desktop\landing-page\1\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Naomi\Desktop\landing-page\1\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Naomi\Desktop\landing-page\1\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Naomi\Desktop\landing-page\1\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Naomi\Desktop\landing-page\1\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Naomi\Desktop\landing-page\1\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Naomi\Desktop\landing-page\1\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Security.Claims.dll
+C:\Users\Naomi\Desktop\landing-page\1\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Naomi\Desktop\landing-page\1\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Naomi\Desktop\landing-page\1\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Naomi\Desktop\landing-page\1\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Naomi\Desktop\landing-page\1\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Naomi\Desktop\landing-page\1\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Naomi\Desktop\landing-page\1\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\Naomi\Desktop\landing-page\1\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Naomi\Desktop\landing-page\1\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Naomi\Desktop\landing-page\1\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Naomi\Desktop\landing-page\1\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Naomi\Desktop\landing-page\1\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\vbc.exe
+C:\Users\Naomi\Desktop\landing-page\1\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\vbc.exe.config
+C:\Users\Naomi\Desktop\landing-page\1\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\vbc.rsp
+C:\Users\Naomi\Desktop\landing-page\1\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Naomi\Desktop\landing-page\1\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Naomi\Desktop\landing-page\1\proyectoWeb\proyectoWeb\proyectoWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Naomi\Desktop\landing-page\1\proyectoWeb\proyectoWeb\proyectoWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Naomi\Desktop\landing-page\1\proyectoWeb\proyectoWeb\proyectoWeb\obj\Debug\proyectoWeb.csprojAssemblyReference.cache
+C:\Users\Naomi\Desktop\landing-page\1\proyectoWeb\proyectoWeb\proyectoWeb\obj\Debug\proyectoWeb.csproj.CoreCompileInputs.cache
+C:\Users\Naomi\Desktop\landing-page\1\proyectoWeb\proyectoWeb\proyectoWeb\obj\Debug\proyectoWeb.csproj.CopyComplete
+C:\Users\Naomi\Desktop\landing-page\1\proyectoWeb\proyectoWeb\proyectoWeb\obj\Debug\proyectoWeb.dll
+C:\Users\Naomi\Desktop\landing-page\1\proyectoWeb\proyectoWeb\proyectoWeb\obj\Debug\proyectoWeb.pdb
+C:\Users\Administrador\Desktop\Arlene\sexto semestre\programacion web\proyectoWeb-naomi\proyectoWeb\proyectoWeb\bin\proyectoWeb.dll.config
+C:\Users\Administrador\Desktop\Arlene\sexto semestre\programacion web\proyectoWeb-naomi\proyectoWeb\proyectoWeb\bin\proyectoWeb.dll
+C:\Users\Administrador\Desktop\Arlene\sexto semestre\programacion web\proyectoWeb-naomi\proyectoWeb\proyectoWeb\bin\proyectoWeb.pdb
+C:\Users\Administrador\Desktop\Arlene\sexto semestre\programacion web\proyectoWeb-naomi\proyectoWeb\proyectoWeb\bin\roslyn\csc.exe
+C:\Users\Administrador\Desktop\Arlene\sexto semestre\programacion web\proyectoWeb-naomi\proyectoWeb\proyectoWeb\bin\roslyn\csc.exe.config
+C:\Users\Administrador\Desktop\Arlene\sexto semestre\programacion web\proyectoWeb-naomi\proyectoWeb\proyectoWeb\bin\roslyn\csc.rsp
+C:\Users\Administrador\Desktop\Arlene\sexto semestre\programacion web\proyectoWeb-naomi\proyectoWeb\proyectoWeb\bin\roslyn\csi.exe
+C:\Users\Administrador\Desktop\Arlene\sexto semestre\programacion web\proyectoWeb-naomi\proyectoWeb\proyectoWeb\bin\roslyn\csi.exe.config
+C:\Users\Administrador\Desktop\Arlene\sexto semestre\programacion web\proyectoWeb-naomi\proyectoWeb\proyectoWeb\bin\roslyn\csi.rsp
+C:\Users\Administrador\Desktop\Arlene\sexto semestre\programacion web\proyectoWeb-naomi\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrador\Desktop\Arlene\sexto semestre\programacion web\proyectoWeb-naomi\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrador\Desktop\Arlene\sexto semestre\programacion web\proyectoWeb-naomi\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Administrador\Desktop\Arlene\sexto semestre\programacion web\proyectoWeb-naomi\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrador\Desktop\Arlene\sexto semestre\programacion web\proyectoWeb-naomi\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Administrador\Desktop\Arlene\sexto semestre\programacion web\proyectoWeb-naomi\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrador\Desktop\Arlene\sexto semestre\programacion web\proyectoWeb-naomi\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrador\Desktop\Arlene\sexto semestre\programacion web\proyectoWeb-naomi\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Administrador\Desktop\Arlene\sexto semestre\programacion web\proyectoWeb-naomi\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Administrador\Desktop\Arlene\sexto semestre\programacion web\proyectoWeb-naomi\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Administrador\Desktop\Arlene\sexto semestre\programacion web\proyectoWeb-naomi\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrador\Desktop\Arlene\sexto semestre\programacion web\proyectoWeb-naomi\proyectoWeb\proyectoWeb\bin\roslyn\System.AppContext.dll
+C:\Users\Administrador\Desktop\Arlene\sexto semestre\programacion web\proyectoWeb-naomi\proyectoWeb\proyectoWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrador\Desktop\Arlene\sexto semestre\programacion web\proyectoWeb-naomi\proyectoWeb\proyectoWeb\bin\roslyn\System.Console.dll
+C:\Users\Administrador\Desktop\Arlene\sexto semestre\programacion web\proyectoWeb-naomi\proyectoWeb\proyectoWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Administrador\Desktop\Arlene\sexto semestre\programacion web\proyectoWeb-naomi\proyectoWeb\proyectoWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Administrador\Desktop\Arlene\sexto semestre\programacion web\proyectoWeb-naomi\proyectoWeb\proyectoWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\Administrador\Desktop\Arlene\sexto semestre\programacion web\proyectoWeb-naomi\proyectoWeb\proyectoWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Administrador\Desktop\Arlene\sexto semestre\programacion web\proyectoWeb-naomi\proyectoWeb\proyectoWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Administrador\Desktop\Arlene\sexto semestre\programacion web\proyectoWeb-naomi\proyectoWeb\proyectoWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Administrador\Desktop\Arlene\sexto semestre\programacion web\proyectoWeb-naomi\proyectoWeb\proyectoWeb\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Administrador\Desktop\Arlene\sexto semestre\programacion web\proyectoWeb-naomi\proyectoWeb\proyectoWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrador\Desktop\Arlene\sexto semestre\programacion web\proyectoWeb-naomi\proyectoWeb\proyectoWeb\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Administrador\Desktop\Arlene\sexto semestre\programacion web\proyectoWeb-naomi\proyectoWeb\proyectoWeb\bin\roslyn\System.Security.Claims.dll
+C:\Users\Administrador\Desktop\Arlene\sexto semestre\programacion web\proyectoWeb-naomi\proyectoWeb\proyectoWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Administrador\Desktop\Arlene\sexto semestre\programacion web\proyectoWeb-naomi\proyectoWeb\proyectoWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Administrador\Desktop\Arlene\sexto semestre\programacion web\proyectoWeb-naomi\proyectoWeb\proyectoWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Administrador\Desktop\Arlene\sexto semestre\programacion web\proyectoWeb-naomi\proyectoWeb\proyectoWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Administrador\Desktop\Arlene\sexto semestre\programacion web\proyectoWeb-naomi\proyectoWeb\proyectoWeb\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Administrador\Desktop\Arlene\sexto semestre\programacion web\proyectoWeb-naomi\proyectoWeb\proyectoWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Administrador\Desktop\Arlene\sexto semestre\programacion web\proyectoWeb-naomi\proyectoWeb\proyectoWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\Administrador\Desktop\Arlene\sexto semestre\programacion web\proyectoWeb-naomi\proyectoWeb\proyectoWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Administrador\Desktop\Arlene\sexto semestre\programacion web\proyectoWeb-naomi\proyectoWeb\proyectoWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Administrador\Desktop\Arlene\sexto semestre\programacion web\proyectoWeb-naomi\proyectoWeb\proyectoWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Administrador\Desktop\Arlene\sexto semestre\programacion web\proyectoWeb-naomi\proyectoWeb\proyectoWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Administrador\Desktop\Arlene\sexto semestre\programacion web\proyectoWeb-naomi\proyectoWeb\proyectoWeb\bin\roslyn\vbc.exe
+C:\Users\Administrador\Desktop\Arlene\sexto semestre\programacion web\proyectoWeb-naomi\proyectoWeb\proyectoWeb\bin\roslyn\vbc.exe.config
+C:\Users\Administrador\Desktop\Arlene\sexto semestre\programacion web\proyectoWeb-naomi\proyectoWeb\proyectoWeb\bin\roslyn\vbc.rsp
+C:\Users\Administrador\Desktop\Arlene\sexto semestre\programacion web\proyectoWeb-naomi\proyectoWeb\proyectoWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrador\Desktop\Arlene\sexto semestre\programacion web\proyectoWeb-naomi\proyectoWeb\proyectoWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrador\Desktop\Arlene\sexto semestre\programacion web\proyectoWeb-naomi\proyectoWeb\proyectoWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrador\Desktop\Arlene\sexto semestre\programacion web\proyectoWeb-naomi\proyectoWeb\proyectoWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrador\Desktop\Arlene\sexto semestre\programacion web\proyectoWeb-naomi\proyectoWeb\proyectoWeb\obj\Debug\proyectoWeb.csprojAssemblyReference.cache
+C:\Users\Administrador\Desktop\Arlene\sexto semestre\programacion web\proyectoWeb-naomi\proyectoWeb\proyectoWeb\obj\Debug\proyectoWeb.csproj.CopyComplete
+C:\Users\Administrador\Desktop\Arlene\sexto semestre\programacion web\proyectoWeb-naomi\proyectoWeb\proyectoWeb\obj\Debug\proyectoWeb.dll
+C:\Users\Administrador\Desktop\Arlene\sexto semestre\programacion web\proyectoWeb-naomi\proyectoWeb\proyectoWeb\obj\Debug\proyectoWeb.pdb
+C:\Users\Naomi\Desktop\landing-page\2\proyectoWeb\proyectoWeb\bin\proyectoWeb.dll.config
+C:\Users\Naomi\Desktop\landing-page\2\proyectoWeb\proyectoWeb\bin\proyectoWeb.dll
+C:\Users\Naomi\Desktop\landing-page\2\proyectoWeb\proyectoWeb\bin\proyectoWeb.pdb
+C:\Users\Naomi\Desktop\landing-page\2\proyectoWeb\proyectoWeb\bin\roslyn\csc.exe
+C:\Users\Naomi\Desktop\landing-page\2\proyectoWeb\proyectoWeb\bin\roslyn\csc.exe.config
+C:\Users\Naomi\Desktop\landing-page\2\proyectoWeb\proyectoWeb\bin\roslyn\csc.rsp
+C:\Users\Naomi\Desktop\landing-page\2\proyectoWeb\proyectoWeb\bin\roslyn\csi.exe
+C:\Users\Naomi\Desktop\landing-page\2\proyectoWeb\proyectoWeb\bin\roslyn\csi.exe.config
+C:\Users\Naomi\Desktop\landing-page\2\proyectoWeb\proyectoWeb\bin\roslyn\csi.rsp
+C:\Users\Naomi\Desktop\landing-page\2\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Naomi\Desktop\landing-page\2\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Naomi\Desktop\landing-page\2\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Naomi\Desktop\landing-page\2\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Naomi\Desktop\landing-page\2\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Naomi\Desktop\landing-page\2\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Naomi\Desktop\landing-page\2\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Naomi\Desktop\landing-page\2\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Naomi\Desktop\landing-page\2\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Naomi\Desktop\landing-page\2\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Naomi\Desktop\landing-page\2\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Naomi\Desktop\landing-page\2\proyectoWeb\proyectoWeb\bin\roslyn\System.AppContext.dll
+C:\Users\Naomi\Desktop\landing-page\2\proyectoWeb\proyectoWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Naomi\Desktop\landing-page\2\proyectoWeb\proyectoWeb\bin\roslyn\System.Console.dll
+C:\Users\Naomi\Desktop\landing-page\2\proyectoWeb\proyectoWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Naomi\Desktop\landing-page\2\proyectoWeb\proyectoWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Naomi\Desktop\landing-page\2\proyectoWeb\proyectoWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\Naomi\Desktop\landing-page\2\proyectoWeb\proyectoWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Naomi\Desktop\landing-page\2\proyectoWeb\proyectoWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Naomi\Desktop\landing-page\2\proyectoWeb\proyectoWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Naomi\Desktop\landing-page\2\proyectoWeb\proyectoWeb\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Naomi\Desktop\landing-page\2\proyectoWeb\proyectoWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Naomi\Desktop\landing-page\2\proyectoWeb\proyectoWeb\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Naomi\Desktop\landing-page\2\proyectoWeb\proyectoWeb\bin\roslyn\System.Security.Claims.dll
+C:\Users\Naomi\Desktop\landing-page\2\proyectoWeb\proyectoWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Naomi\Desktop\landing-page\2\proyectoWeb\proyectoWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Naomi\Desktop\landing-page\2\proyectoWeb\proyectoWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Naomi\Desktop\landing-page\2\proyectoWeb\proyectoWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Naomi\Desktop\landing-page\2\proyectoWeb\proyectoWeb\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Naomi\Desktop\landing-page\2\proyectoWeb\proyectoWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Naomi\Desktop\landing-page\2\proyectoWeb\proyectoWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\Naomi\Desktop\landing-page\2\proyectoWeb\proyectoWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Naomi\Desktop\landing-page\2\proyectoWeb\proyectoWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Naomi\Desktop\landing-page\2\proyectoWeb\proyectoWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Naomi\Desktop\landing-page\2\proyectoWeb\proyectoWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Naomi\Desktop\landing-page\2\proyectoWeb\proyectoWeb\bin\roslyn\vbc.exe
+C:\Users\Naomi\Desktop\landing-page\2\proyectoWeb\proyectoWeb\bin\roslyn\vbc.exe.config
+C:\Users\Naomi\Desktop\landing-page\2\proyectoWeb\proyectoWeb\bin\roslyn\vbc.rsp
+C:\Users\Naomi\Desktop\landing-page\2\proyectoWeb\proyectoWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Naomi\Desktop\landing-page\2\proyectoWeb\proyectoWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Naomi\Desktop\landing-page\2\proyectoWeb\proyectoWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Naomi\Desktop\landing-page\2\proyectoWeb\proyectoWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Naomi\Desktop\landing-page\2\proyectoWeb\proyectoWeb\obj\Debug\proyectoWeb.csprojAssemblyReference.cache
+C:\Users\Naomi\Desktop\landing-page\2\proyectoWeb\proyectoWeb\obj\Debug\proyectoWeb.csproj.CoreCompileInputs.cache
+C:\Users\Naomi\Desktop\landing-page\2\proyectoWeb\proyectoWeb\obj\Debug\proyectoWeb.csproj.CopyComplete
+C:\Users\Naomi\Desktop\landing-page\2\proyectoWeb\proyectoWeb\obj\Debug\proyectoWeb.dll
+C:\Users\Naomi\Desktop\landing-page\2\proyectoWeb\proyectoWeb\obj\Debug\proyectoWeb.pdb
+C:\Users\andre\Downloads\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\proyectoWeb.dll.config
+C:\Users\andre\Downloads\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\proyectoWeb.dll
+C:\Users\andre\Downloads\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\proyectoWeb.pdb
+C:\Users\andre\Downloads\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\csc.exe
+C:\Users\andre\Downloads\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\csc.exe.config
+C:\Users\andre\Downloads\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\csc.rsp
+C:\Users\andre\Downloads\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\csi.exe
+C:\Users\andre\Downloads\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\csi.exe.config
+C:\Users\andre\Downloads\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\csi.rsp
+C:\Users\andre\Downloads\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\andre\Downloads\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\andre\Downloads\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\andre\Downloads\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\andre\Downloads\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\andre\Downloads\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\andre\Downloads\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\andre\Downloads\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\andre\Downloads\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\andre\Downloads\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\andre\Downloads\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\andre\Downloads\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\System.AppContext.dll
+C:\Users\andre\Downloads\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\andre\Downloads\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\System.Console.dll
+C:\Users\andre\Downloads\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\andre\Downloads\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\andre\Downloads\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\andre\Downloads\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\andre\Downloads\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\andre\Downloads\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\andre\Downloads\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\System.IO.Pipes.dll
+C:\Users\andre\Downloads\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\andre\Downloads\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\andre\Downloads\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\System.Security.Claims.dll
+C:\Users\andre\Downloads\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\andre\Downloads\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\andre\Downloads\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\andre\Downloads\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\andre\Downloads\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\andre\Downloads\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\andre\Downloads\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\andre\Downloads\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\andre\Downloads\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\andre\Downloads\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\andre\Downloads\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\andre\Downloads\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\vbc.exe
+C:\Users\andre\Downloads\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\vbc.exe.config
+C:\Users\andre\Downloads\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\vbc.rsp
+C:\Users\andre\Downloads\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\andre\Downloads\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\andre\Downloads\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\andre\Downloads\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\andre\Downloads\proyectoWeb (3)\proyectoWeb\proyectoWeb\obj\Debug\proyectoWeb.csprojAssemblyReference.cache
+C:\Users\andre\Downloads\proyectoWeb (3)\proyectoWeb\proyectoWeb\obj\Debug\proyectoWeb.csproj.CopyComplete
+C:\Users\andre\Downloads\proyectoWeb (3)\proyectoWeb\proyectoWeb\obj\Debug\proyectoWeb.dll
+C:\Users\andre\Downloads\proyectoWeb (3)\proyectoWeb\proyectoWeb\obj\Debug\proyectoWeb.pdb
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb (3)\proyectoWeb\proyectoWeb\obj\Debug\proyectoWeb.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb (3)\proyectoWeb\proyectoWeb\obj\Debug\proyectoWeb.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb (3)\proyectoWeb\proyectoWeb\obj\Debug\proyectoWeb.dll
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb (3)\proyectoWeb\proyectoWeb\obj\Debug\proyectoWeb.pdb
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\proyectoWeb.dll.config
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\proyectoWeb.dll
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\proyectoWeb.pdb
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\csc.exe
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\csc.exe.config
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\csc.rsp
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\csi.exe
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\csi.exe.config
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\csi.rsp
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\System.AppContext.dll
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\System.Console.dll
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\System.Security.Claims.dll
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\vbc.exe
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\vbc.exe.config
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\vbc.rsp
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\MODELO.dll
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\EntityFramework.dll
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\MODELO.pdb
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\MODELO.dll.config
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb (3)\proyectoWeb\proyectoWeb\bin\EntityFramework.xml
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb (3)\proyectoWeb\proyectoWeb\obj\Debug\proyectoWeb.csproj.CopyComplete
+C:\Users\Naomi\Desktop\landing-page\4\proyectoWeb\proyectoWeb\bin\proyectoWeb.dll.config
+C:\Users\Naomi\Desktop\landing-page\4\proyectoWeb\proyectoWeb\bin\proyectoWeb.dll
+C:\Users\Naomi\Desktop\landing-page\4\proyectoWeb\proyectoWeb\bin\proyectoWeb.pdb
+C:\Users\Naomi\Desktop\landing-page\4\proyectoWeb\proyectoWeb\bin\roslyn\csc.exe
+C:\Users\Naomi\Desktop\landing-page\4\proyectoWeb\proyectoWeb\bin\roslyn\csc.exe.config
+C:\Users\Naomi\Desktop\landing-page\4\proyectoWeb\proyectoWeb\bin\roslyn\csc.rsp
+C:\Users\Naomi\Desktop\landing-page\4\proyectoWeb\proyectoWeb\bin\roslyn\csi.exe
+C:\Users\Naomi\Desktop\landing-page\4\proyectoWeb\proyectoWeb\bin\roslyn\csi.exe.config
+C:\Users\Naomi\Desktop\landing-page\4\proyectoWeb\proyectoWeb\bin\roslyn\csi.rsp
+C:\Users\Naomi\Desktop\landing-page\4\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Naomi\Desktop\landing-page\4\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Naomi\Desktop\landing-page\4\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Naomi\Desktop\landing-page\4\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Naomi\Desktop\landing-page\4\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Naomi\Desktop\landing-page\4\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Naomi\Desktop\landing-page\4\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Naomi\Desktop\landing-page\4\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Naomi\Desktop\landing-page\4\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Naomi\Desktop\landing-page\4\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Naomi\Desktop\landing-page\4\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Naomi\Desktop\landing-page\4\proyectoWeb\proyectoWeb\bin\roslyn\System.AppContext.dll
+C:\Users\Naomi\Desktop\landing-page\4\proyectoWeb\proyectoWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Naomi\Desktop\landing-page\4\proyectoWeb\proyectoWeb\bin\roslyn\System.Console.dll
+C:\Users\Naomi\Desktop\landing-page\4\proyectoWeb\proyectoWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Naomi\Desktop\landing-page\4\proyectoWeb\proyectoWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Naomi\Desktop\landing-page\4\proyectoWeb\proyectoWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\Naomi\Desktop\landing-page\4\proyectoWeb\proyectoWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Naomi\Desktop\landing-page\4\proyectoWeb\proyectoWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Naomi\Desktop\landing-page\4\proyectoWeb\proyectoWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Naomi\Desktop\landing-page\4\proyectoWeb\proyectoWeb\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Naomi\Desktop\landing-page\4\proyectoWeb\proyectoWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Naomi\Desktop\landing-page\4\proyectoWeb\proyectoWeb\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Naomi\Desktop\landing-page\4\proyectoWeb\proyectoWeb\bin\roslyn\System.Security.Claims.dll
+C:\Users\Naomi\Desktop\landing-page\4\proyectoWeb\proyectoWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Naomi\Desktop\landing-page\4\proyectoWeb\proyectoWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Naomi\Desktop\landing-page\4\proyectoWeb\proyectoWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Naomi\Desktop\landing-page\4\proyectoWeb\proyectoWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Naomi\Desktop\landing-page\4\proyectoWeb\proyectoWeb\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Naomi\Desktop\landing-page\4\proyectoWeb\proyectoWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Naomi\Desktop\landing-page\4\proyectoWeb\proyectoWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\Naomi\Desktop\landing-page\4\proyectoWeb\proyectoWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Naomi\Desktop\landing-page\4\proyectoWeb\proyectoWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Naomi\Desktop\landing-page\4\proyectoWeb\proyectoWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Naomi\Desktop\landing-page\4\proyectoWeb\proyectoWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Naomi\Desktop\landing-page\4\proyectoWeb\proyectoWeb\bin\roslyn\vbc.exe
+C:\Users\Naomi\Desktop\landing-page\4\proyectoWeb\proyectoWeb\bin\roslyn\vbc.exe.config
+C:\Users\Naomi\Desktop\landing-page\4\proyectoWeb\proyectoWeb\bin\roslyn\vbc.rsp
+C:\Users\Naomi\Desktop\landing-page\4\proyectoWeb\proyectoWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Naomi\Desktop\landing-page\4\proyectoWeb\proyectoWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Naomi\Desktop\landing-page\4\proyectoWeb\proyectoWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Naomi\Desktop\landing-page\4\proyectoWeb\proyectoWeb\bin\MODELO.dll
+C:\Users\Naomi\Desktop\landing-page\4\proyectoWeb\proyectoWeb\bin\EntityFramework.dll
+C:\Users\Naomi\Desktop\landing-page\4\proyectoWeb\proyectoWeb\bin\MODELO.pdb
+C:\Users\Naomi\Desktop\landing-page\4\proyectoWeb\proyectoWeb\bin\MODELO.dll.config
+C:\Users\Naomi\Desktop\landing-page\4\proyectoWeb\proyectoWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Naomi\Desktop\landing-page\4\proyectoWeb\proyectoWeb\bin\EntityFramework.xml
+C:\Users\Naomi\Desktop\landing-page\4\proyectoWeb\proyectoWeb\obj\Debug\proyectoWeb.csprojAssemblyReference.cache
+C:\Users\Naomi\Desktop\landing-page\4\proyectoWeb\proyectoWeb\obj\Debug\proyectoWeb.csproj.CoreCompileInputs.cache
+C:\Users\Naomi\Desktop\landing-page\4\proyectoWeb\proyectoWeb\obj\Debug\proyectoWeb.csproj.CopyComplete
+C:\Users\Naomi\Desktop\landing-page\4\proyectoWeb\proyectoWeb\obj\Debug\proyectoWeb.dll
+C:\Users\Naomi\Desktop\landing-page\4\proyectoWeb\proyectoWeb\obj\Debug\proyectoWeb.pdb
+C:\Users\Naomi\Desktop\landing-page\4\proyectoWeb\proyectoWeb\bin\CONTROLADOR.dll
+C:\Users\Naomi\Desktop\landing-page\4\proyectoWeb\proyectoWeb\bin\CONTROLADOR.pdb
+C:\Users\andre\Downloads\proyectoWeb (5)\proyectoWeb\proyectoWeb\bin\proyectoWeb.dll.config
+C:\Users\andre\Downloads\proyectoWeb (5)\proyectoWeb\proyectoWeb\bin\proyectoWeb.dll
+C:\Users\andre\Downloads\proyectoWeb (5)\proyectoWeb\proyectoWeb\bin\proyectoWeb.pdb
+C:\Users\andre\Downloads\proyectoWeb (5)\proyectoWeb\proyectoWeb\bin\roslyn\csc.exe
+C:\Users\andre\Downloads\proyectoWeb (5)\proyectoWeb\proyectoWeb\bin\roslyn\csc.exe.config
+C:\Users\andre\Downloads\proyectoWeb (5)\proyectoWeb\proyectoWeb\bin\roslyn\csc.rsp
+C:\Users\andre\Downloads\proyectoWeb (5)\proyectoWeb\proyectoWeb\bin\roslyn\csi.exe
+C:\Users\andre\Downloads\proyectoWeb (5)\proyectoWeb\proyectoWeb\bin\roslyn\csi.exe.config
+C:\Users\andre\Downloads\proyectoWeb (5)\proyectoWeb\proyectoWeb\bin\roslyn\csi.rsp
+C:\Users\andre\Downloads\proyectoWeb (5)\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\andre\Downloads\proyectoWeb (5)\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\andre\Downloads\proyectoWeb (5)\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\andre\Downloads\proyectoWeb (5)\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\andre\Downloads\proyectoWeb (5)\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\andre\Downloads\proyectoWeb (5)\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\andre\Downloads\proyectoWeb (5)\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\andre\Downloads\proyectoWeb (5)\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\andre\Downloads\proyectoWeb (5)\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\andre\Downloads\proyectoWeb (5)\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\andre\Downloads\proyectoWeb (5)\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\andre\Downloads\proyectoWeb (5)\proyectoWeb\proyectoWeb\bin\roslyn\System.AppContext.dll
+C:\Users\andre\Downloads\proyectoWeb (5)\proyectoWeb\proyectoWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\andre\Downloads\proyectoWeb (5)\proyectoWeb\proyectoWeb\bin\roslyn\System.Console.dll
+C:\Users\andre\Downloads\proyectoWeb (5)\proyectoWeb\proyectoWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\andre\Downloads\proyectoWeb (5)\proyectoWeb\proyectoWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\andre\Downloads\proyectoWeb (5)\proyectoWeb\proyectoWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\andre\Downloads\proyectoWeb (5)\proyectoWeb\proyectoWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\andre\Downloads\proyectoWeb (5)\proyectoWeb\proyectoWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\andre\Downloads\proyectoWeb (5)\proyectoWeb\proyectoWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\andre\Downloads\proyectoWeb (5)\proyectoWeb\proyectoWeb\bin\roslyn\System.IO.Pipes.dll
+C:\Users\andre\Downloads\proyectoWeb (5)\proyectoWeb\proyectoWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\andre\Downloads\proyectoWeb (5)\proyectoWeb\proyectoWeb\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\andre\Downloads\proyectoWeb (5)\proyectoWeb\proyectoWeb\bin\roslyn\System.Security.Claims.dll
+C:\Users\andre\Downloads\proyectoWeb (5)\proyectoWeb\proyectoWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\andre\Downloads\proyectoWeb (5)\proyectoWeb\proyectoWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\andre\Downloads\proyectoWeb (5)\proyectoWeb\proyectoWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\andre\Downloads\proyectoWeb (5)\proyectoWeb\proyectoWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\andre\Downloads\proyectoWeb (5)\proyectoWeb\proyectoWeb\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\andre\Downloads\proyectoWeb (5)\proyectoWeb\proyectoWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\andre\Downloads\proyectoWeb (5)\proyectoWeb\proyectoWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\andre\Downloads\proyectoWeb (5)\proyectoWeb\proyectoWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\andre\Downloads\proyectoWeb (5)\proyectoWeb\proyectoWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\andre\Downloads\proyectoWeb (5)\proyectoWeb\proyectoWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\andre\Downloads\proyectoWeb (5)\proyectoWeb\proyectoWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\andre\Downloads\proyectoWeb (5)\proyectoWeb\proyectoWeb\bin\roslyn\vbc.exe
+C:\Users\andre\Downloads\proyectoWeb (5)\proyectoWeb\proyectoWeb\bin\roslyn\vbc.exe.config
+C:\Users\andre\Downloads\proyectoWeb (5)\proyectoWeb\proyectoWeb\bin\roslyn\vbc.rsp
+C:\Users\andre\Downloads\proyectoWeb (5)\proyectoWeb\proyectoWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\andre\Downloads\proyectoWeb (5)\proyectoWeb\proyectoWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\andre\Downloads\proyectoWeb (5)\proyectoWeb\proyectoWeb\bin\CONTROLADOR.dll
+C:\Users\andre\Downloads\proyectoWeb (5)\proyectoWeb\proyectoWeb\bin\EntityFramework.dll
+C:\Users\andre\Downloads\proyectoWeb (5)\proyectoWeb\proyectoWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\andre\Downloads\proyectoWeb (5)\proyectoWeb\proyectoWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\andre\Downloads\proyectoWeb (5)\proyectoWeb\proyectoWeb\bin\MODELO.dll
+C:\Users\andre\Downloads\proyectoWeb (5)\proyectoWeb\proyectoWeb\bin\CONTROLADOR.pdb
+C:\Users\andre\Downloads\proyectoWeb (5)\proyectoWeb\proyectoWeb\bin\MODELO.pdb
+C:\Users\andre\Downloads\proyectoWeb (5)\proyectoWeb\proyectoWeb\bin\MODELO.dll.config
+C:\Users\andre\Downloads\proyectoWeb (5)\proyectoWeb\proyectoWeb\bin\EntityFramework.xml
+C:\Users\andre\Downloads\proyectoWeb (5)\proyectoWeb\proyectoWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\andre\Downloads\proyectoWeb (5)\proyectoWeb\proyectoWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\andre\Downloads\proyectoWeb (5)\proyectoWeb\proyectoWeb\obj\Debug\proyectoWeb.csprojAssemblyReference.cache
+C:\Users\andre\Downloads\proyectoWeb (5)\proyectoWeb\proyectoWeb\obj\Debug\proyectoWeb.csproj.CoreCompileInputs.cache
+C:\Users\andre\Downloads\proyectoWeb (5)\proyectoWeb\proyectoWeb\obj\Debug\proyectoWeb.csproj.CopyComplete
+C:\Users\andre\Downloads\proyectoWeb (5)\proyectoWeb\proyectoWeb\obj\Debug\proyectoWeb.dll
+C:\Users\andre\Downloads\proyectoWeb (5)\proyectoWeb\proyectoWeb\obj\Debug\proyectoWeb.pdb
+C:\Users\Naomi\Desktop\landing-page\5\proyectoWeb\proyectoWeb\proyectoWeb\bin\proyectoWeb.dll.config
+C:\Users\Naomi\Desktop\landing-page\5\proyectoWeb\proyectoWeb\proyectoWeb\bin\proyectoWeb.dll
+C:\Users\Naomi\Desktop\landing-page\5\proyectoWeb\proyectoWeb\proyectoWeb\bin\proyectoWeb.pdb
+C:\Users\Naomi\Desktop\landing-page\5\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\csc.exe
+C:\Users\Naomi\Desktop\landing-page\5\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\csc.exe.config
+C:\Users\Naomi\Desktop\landing-page\5\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\csc.rsp
+C:\Users\Naomi\Desktop\landing-page\5\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\csi.exe
+C:\Users\Naomi\Desktop\landing-page\5\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\csi.exe.config
+C:\Users\Naomi\Desktop\landing-page\5\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\csi.rsp
+C:\Users\Naomi\Desktop\landing-page\5\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Naomi\Desktop\landing-page\5\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Naomi\Desktop\landing-page\5\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Naomi\Desktop\landing-page\5\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Naomi\Desktop\landing-page\5\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Naomi\Desktop\landing-page\5\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Naomi\Desktop\landing-page\5\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Naomi\Desktop\landing-page\5\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Naomi\Desktop\landing-page\5\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Naomi\Desktop\landing-page\5\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Naomi\Desktop\landing-page\5\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Naomi\Desktop\landing-page\5\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.AppContext.dll
+C:\Users\Naomi\Desktop\landing-page\5\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Naomi\Desktop\landing-page\5\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Console.dll
+C:\Users\Naomi\Desktop\landing-page\5\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Naomi\Desktop\landing-page\5\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Naomi\Desktop\landing-page\5\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\Naomi\Desktop\landing-page\5\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Naomi\Desktop\landing-page\5\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Naomi\Desktop\landing-page\5\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Naomi\Desktop\landing-page\5\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Naomi\Desktop\landing-page\5\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Naomi\Desktop\landing-page\5\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Naomi\Desktop\landing-page\5\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Security.Claims.dll
+C:\Users\Naomi\Desktop\landing-page\5\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Naomi\Desktop\landing-page\5\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Naomi\Desktop\landing-page\5\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Naomi\Desktop\landing-page\5\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Naomi\Desktop\landing-page\5\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Naomi\Desktop\landing-page\5\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Naomi\Desktop\landing-page\5\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\Naomi\Desktop\landing-page\5\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Naomi\Desktop\landing-page\5\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Naomi\Desktop\landing-page\5\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Naomi\Desktop\landing-page\5\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Naomi\Desktop\landing-page\5\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\vbc.exe
+C:\Users\Naomi\Desktop\landing-page\5\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\vbc.exe.config
+C:\Users\Naomi\Desktop\landing-page\5\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\vbc.rsp
+C:\Users\Naomi\Desktop\landing-page\5\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Naomi\Desktop\landing-page\5\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Naomi\Desktop\landing-page\5\proyectoWeb\proyectoWeb\proyectoWeb\bin\CONTROLADOR.dll
+C:\Users\Naomi\Desktop\landing-page\5\proyectoWeb\proyectoWeb\proyectoWeb\bin\EntityFramework.dll
+C:\Users\Naomi\Desktop\landing-page\5\proyectoWeb\proyectoWeb\proyectoWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\Naomi\Desktop\landing-page\5\proyectoWeb\proyectoWeb\proyectoWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Naomi\Desktop\landing-page\5\proyectoWeb\proyectoWeb\proyectoWeb\bin\MODELO.dll
+C:\Users\Naomi\Desktop\landing-page\5\proyectoWeb\proyectoWeb\proyectoWeb\bin\CONTROLADOR.pdb
+C:\Users\Naomi\Desktop\landing-page\5\proyectoWeb\proyectoWeb\proyectoWeb\bin\MODELO.pdb
+C:\Users\Naomi\Desktop\landing-page\5\proyectoWeb\proyectoWeb\proyectoWeb\bin\MODELO.dll.config
+C:\Users\Naomi\Desktop\landing-page\5\proyectoWeb\proyectoWeb\proyectoWeb\bin\EntityFramework.xml
+C:\Users\Naomi\Desktop\landing-page\5\proyectoWeb\proyectoWeb\proyectoWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\Naomi\Desktop\landing-page\5\proyectoWeb\proyectoWeb\proyectoWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Naomi\Desktop\landing-page\5\proyectoWeb\proyectoWeb\proyectoWeb\obj\Debug\proyectoWeb.csprojAssemblyReference.cache
+C:\Users\Naomi\Desktop\landing-page\5\proyectoWeb\proyectoWeb\proyectoWeb\obj\Debug\proyectoWeb.csproj.CoreCompileInputs.cache
+C:\Users\Naomi\Desktop\landing-page\5\proyectoWeb\proyectoWeb\proyectoWeb\obj\Debug\proyectoWeb.csproj.CopyComplete
+C:\Users\Naomi\Desktop\landing-page\5\proyectoWeb\proyectoWeb\proyectoWeb\obj\Debug\proyectoWeb.dll
+C:\Users\Naomi\Desktop\landing-page\5\proyectoWeb\proyectoWeb\proyectoWeb\obj\Debug\proyectoWeb.pdb
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb\proyectoWeb\proyectoWeb\bin\proyectoWeb.dll.config
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb\proyectoWeb\proyectoWeb\bin\proyectoWeb.dll
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb\proyectoWeb\proyectoWeb\bin\proyectoWeb.pdb
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\csc.exe
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\csc.exe.config
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\csc.rsp
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\csi.exe
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\csi.exe.config
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\csi.rsp
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.AppContext.dll
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Console.dll
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Security.Claims.dll
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\vbc.exe
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\vbc.exe.config
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\vbc.rsp
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb\proyectoWeb\proyectoWeb\bin\CONTROLADOR.dll
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb\proyectoWeb\proyectoWeb\bin\EntityFramework.dll
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb\proyectoWeb\proyectoWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb\proyectoWeb\proyectoWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb\proyectoWeb\proyectoWeb\bin\MODELO.dll
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb\proyectoWeb\proyectoWeb\bin\CONTROLADOR.pdb
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb\proyectoWeb\proyectoWeb\bin\MODELO.pdb
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb\proyectoWeb\proyectoWeb\bin\MODELO.dll.config
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb\proyectoWeb\proyectoWeb\bin\EntityFramework.xml
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb\proyectoWeb\proyectoWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb\proyectoWeb\proyectoWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb\proyectoWeb\proyectoWeb\obj\Debug\proyectoWeb.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb\proyectoWeb\proyectoWeb\obj\Debug\proyectoWeb.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb\proyectoWeb\proyectoWeb\obj\Debug\proyectoWeb.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb\proyectoWeb\proyectoWeb\obj\Debug\proyectoWeb.dll
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb\proyectoWeb\proyectoWeb\obj\Debug\proyectoWeb.pdb
+C:\Users\Naomi\Desktop\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\proyectoWeb.dll.config
+C:\Users\Naomi\Desktop\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\proyectoWeb.dll
+C:\Users\Naomi\Desktop\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\proyectoWeb.pdb
+C:\Users\Naomi\Desktop\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\csc.exe
+C:\Users\Naomi\Desktop\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\csc.exe.config
+C:\Users\Naomi\Desktop\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\csc.rsp
+C:\Users\Naomi\Desktop\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\csi.exe
+C:\Users\Naomi\Desktop\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\csi.exe.config
+C:\Users\Naomi\Desktop\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\csi.rsp
+C:\Users\Naomi\Desktop\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Naomi\Desktop\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Naomi\Desktop\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Naomi\Desktop\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Naomi\Desktop\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Naomi\Desktop\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Naomi\Desktop\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Naomi\Desktop\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Naomi\Desktop\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Naomi\Desktop\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Naomi\Desktop\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Naomi\Desktop\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.AppContext.dll
+C:\Users\Naomi\Desktop\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Naomi\Desktop\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Console.dll
+C:\Users\Naomi\Desktop\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Naomi\Desktop\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Naomi\Desktop\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\Naomi\Desktop\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Naomi\Desktop\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Naomi\Desktop\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Naomi\Desktop\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Naomi\Desktop\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Naomi\Desktop\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Naomi\Desktop\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Security.Claims.dll
+C:\Users\Naomi\Desktop\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Naomi\Desktop\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Naomi\Desktop\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Naomi\Desktop\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Naomi\Desktop\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Naomi\Desktop\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Naomi\Desktop\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\Naomi\Desktop\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Naomi\Desktop\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Naomi\Desktop\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Naomi\Desktop\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Naomi\Desktop\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\vbc.exe
+C:\Users\Naomi\Desktop\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\vbc.exe.config
+C:\Users\Naomi\Desktop\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\vbc.rsp
+C:\Users\Naomi\Desktop\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Naomi\Desktop\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Naomi\Desktop\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\CONTROLADOR.dll
+C:\Users\Naomi\Desktop\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\EntityFramework.dll
+C:\Users\Naomi\Desktop\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\Naomi\Desktop\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Naomi\Desktop\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\MODELO.dll
+C:\Users\Naomi\Desktop\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\CONTROLADOR.pdb
+C:\Users\Naomi\Desktop\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\MODELO.pdb
+C:\Users\Naomi\Desktop\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\MODELO.dll.config
+C:\Users\Naomi\Desktop\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\EntityFramework.xml
+C:\Users\Naomi\Desktop\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\Naomi\Desktop\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Naomi\Desktop\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\obj\Debug\proyectoWeb.csprojAssemblyReference.cache
+C:\Users\Naomi\Desktop\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\obj\Debug\proyectoWeb.csproj.CoreCompileInputs.cache
+C:\Users\Naomi\Desktop\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\obj\Debug\proyectoWeb.csproj.CopyComplete
+C:\Users\Naomi\Desktop\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\obj\Debug\proyectoWeb.dll
+C:\Users\Naomi\Desktop\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\obj\Debug\proyectoWeb.pdb
+D:\documentos\ITH\semestre 6\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\proyectoWeb.dll.config
+D:\documentos\ITH\semestre 6\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\proyectoWeb.dll
+D:\documentos\ITH\semestre 6\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\proyectoWeb.pdb
+D:\documentos\ITH\semestre 6\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\csc.exe
+D:\documentos\ITH\semestre 6\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\csc.exe.config
+D:\documentos\ITH\semestre 6\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\csc.rsp
+D:\documentos\ITH\semestre 6\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\csi.exe
+D:\documentos\ITH\semestre 6\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\csi.exe.config
+D:\documentos\ITH\semestre 6\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\csi.rsp
+D:\documentos\ITH\semestre 6\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\documentos\ITH\semestre 6\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\documentos\ITH\semestre 6\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\documentos\ITH\semestre 6\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\documentos\ITH\semestre 6\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\documentos\ITH\semestre 6\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\documentos\ITH\semestre 6\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\documentos\ITH\semestre 6\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\documentos\ITH\semestre 6\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\documentos\ITH\semestre 6\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.Managed.Core.targets
+D:\documentos\ITH\semestre 6\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\documentos\ITH\semestre 6\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.AppContext.dll
+D:\documentos\ITH\semestre 6\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Collections.Immutable.dll
+D:\documentos\ITH\semestre 6\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Console.dll
+D:\documentos\ITH\semestre 6\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\documentos\ITH\semestre 6\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\documentos\ITH\semestre 6\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.IO.Compression.dll
+D:\documentos\ITH\semestre 6\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.IO.FileSystem.dll
+D:\documentos\ITH\semestre 6\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\documentos\ITH\semestre 6\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\documentos\ITH\semestre 6\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.IO.Pipes.dll
+D:\documentos\ITH\semestre 6\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Reflection.Metadata.dll
+D:\documentos\ITH\semestre 6\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Security.AccessControl.dll
+D:\documentos\ITH\semestre 6\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Security.Claims.dll
+D:\documentos\ITH\semestre 6\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\documentos\ITH\semestre 6\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\documentos\ITH\semestre 6\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\documentos\ITH\semestre 6\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\documentos\ITH\semestre 6\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Security.Principal.Windows.dll
+D:\documentos\ITH\semestre 6\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\documentos\ITH\semestre 6\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.ValueTuple.dll
+D:\documentos\ITH\semestre 6\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\documentos\ITH\semestre 6\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Xml.XmlDocument.dll
+D:\documentos\ITH\semestre 6\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Xml.XPath.dll
+D:\documentos\ITH\semestre 6\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\documentos\ITH\semestre 6\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\vbc.exe
+D:\documentos\ITH\semestre 6\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\vbc.exe.config
+D:\documentos\ITH\semestre 6\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\vbc.rsp
+D:\documentos\ITH\semestre 6\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\VBCSCompiler.exe
+D:\documentos\ITH\semestre 6\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\roslyn\VBCSCompiler.exe.config
+D:\documentos\ITH\semestre 6\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\CONTROLADOR.dll
+D:\documentos\ITH\semestre 6\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\EntityFramework.dll
+D:\documentos\ITH\semestre 6\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\EntityFramework.SqlServer.dll
+D:\documentos\ITH\semestre 6\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\documentos\ITH\semestre 6\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\MODELO.dll
+D:\documentos\ITH\semestre 6\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\CONTROLADOR.pdb
+D:\documentos\ITH\semestre 6\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\MODELO.pdb
+D:\documentos\ITH\semestre 6\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\MODELO.dll.config
+D:\documentos\ITH\semestre 6\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\EntityFramework.xml
+D:\documentos\ITH\semestre 6\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\EntityFramework.SqlServer.xml
+D:\documentos\ITH\semestre 6\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\documentos\ITH\semestre 6\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\obj\Debug\proyectoWeb.csproj.AssemblyReference.cache
+D:\documentos\ITH\semestre 6\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\obj\Debug\proyectoWeb.csproj.CoreCompileInputs.cache
+D:\documentos\ITH\semestre 6\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\obj\Debug\proyectoWeb.csproj.CopyComplete
+D:\documentos\ITH\semestre 6\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\obj\Debug\proyectoWeb.dll
+D:\documentos\ITH\semestre 6\landing-page\6\proyectoWeb\proyectoWeb\proyectoWeb\obj\Debug\proyectoWeb.pdb

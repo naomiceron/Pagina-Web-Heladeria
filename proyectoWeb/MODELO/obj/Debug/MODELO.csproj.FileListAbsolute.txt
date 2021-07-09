@@ -1,0 +1,83 @@
+C:\Users\andre\Downloads\proyectoWeb (3)\proyectoWeb\MODELO\obj\Debug\MODELO.csprojAssemblyReference.cache
+C:\Users\andre\Downloads\proyectoWeb (3)\proyectoWeb\MODELO\bin\Debug\MODELO.dll.config
+C:\Users\andre\Downloads\proyectoWeb (3)\proyectoWeb\MODELO\bin\Debug\MODELO.dll
+C:\Users\andre\Downloads\proyectoWeb (3)\proyectoWeb\MODELO\bin\Debug\MODELO.pdb
+C:\Users\andre\Downloads\proyectoWeb (3)\proyectoWeb\MODELO\bin\Debug\EntityFramework.dll
+C:\Users\andre\Downloads\proyectoWeb (3)\proyectoWeb\MODELO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\andre\Downloads\proyectoWeb (3)\proyectoWeb\MODELO\bin\Debug\EntityFramework.xml
+C:\Users\andre\Downloads\proyectoWeb (3)\proyectoWeb\MODELO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\andre\Downloads\proyectoWeb (3)\proyectoWeb\MODELO\obj\Debug\MODELO.csproj.CopyComplete
+C:\Users\andre\Downloads\proyectoWeb (3)\proyectoWeb\MODELO\obj\Debug\MODELO.dll
+C:\Users\andre\Downloads\proyectoWeb (3)\proyectoWeb\MODELO\obj\Debug\MODELO.pdb
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb (3)\proyectoWeb\MODELO\bin\Debug\MODELO.dll.config
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb (3)\proyectoWeb\MODELO\bin\Debug\MODELO.dll
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb (3)\proyectoWeb\MODELO\bin\Debug\MODELO.pdb
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb (3)\proyectoWeb\MODELO\bin\Debug\EntityFramework.dll
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb (3)\proyectoWeb\MODELO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb (3)\proyectoWeb\MODELO\bin\Debug\EntityFramework.xml
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb (3)\proyectoWeb\MODELO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb (3)\proyectoWeb\MODELO\obj\Debug\MODELO.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb (3)\proyectoWeb\MODELO\obj\Debug\MODELO.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb (3)\proyectoWeb\MODELO\obj\Debug\MODELO.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb (3)\proyectoWeb\MODELO\obj\Debug\MODELO.dll
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb (3)\proyectoWeb\MODELO\obj\Debug\MODELO.pdb
+C:\Users\Naomi\Desktop\landing-page\4\proyectoWeb\MODELO\bin\Debug\MODELO.dll.config
+C:\Users\Naomi\Desktop\landing-page\4\proyectoWeb\MODELO\bin\Debug\MODELO.dll
+C:\Users\Naomi\Desktop\landing-page\4\proyectoWeb\MODELO\bin\Debug\MODELO.pdb
+C:\Users\Naomi\Desktop\landing-page\4\proyectoWeb\MODELO\bin\Debug\EntityFramework.dll
+C:\Users\Naomi\Desktop\landing-page\4\proyectoWeb\MODELO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Naomi\Desktop\landing-page\4\proyectoWeb\MODELO\bin\Debug\EntityFramework.xml
+C:\Users\Naomi\Desktop\landing-page\4\proyectoWeb\MODELO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Naomi\Desktop\landing-page\4\proyectoWeb\MODELO\obj\Debug\MODELO.csprojAssemblyReference.cache
+C:\Users\Naomi\Desktop\landing-page\4\proyectoWeb\MODELO\obj\Debug\MODELO.csproj.CoreCompileInputs.cache
+C:\Users\Naomi\Desktop\landing-page\4\proyectoWeb\MODELO\obj\Debug\MODELO.csproj.CopyComplete
+C:\Users\Naomi\Desktop\landing-page\4\proyectoWeb\MODELO\obj\Debug\MODELO.dll
+C:\Users\Naomi\Desktop\landing-page\4\proyectoWeb\MODELO\obj\Debug\MODELO.pdb
+C:\Users\andre\Downloads\proyectoWeb (5)\proyectoWeb\MODELO\obj\Debug\MODELO.csprojAssemblyReference.cache
+C:\Users\andre\Downloads\proyectoWeb (5)\proyectoWeb\MODELO\obj\Debug\MODELO.csproj.CoreCompileInputs.cache
+C:\Users\andre\Downloads\proyectoWeb (5)\proyectoWeb\MODELO\obj\Debug\MODELO.dll
+C:\Users\andre\Downloads\proyectoWeb (5)\proyectoWeb\MODELO\obj\Debug\MODELO.pdb
+C:\Users\andre\Downloads\proyectoWeb (5)\proyectoWeb\MODELO\bin\Debug\MODELO.dll.config
+C:\Users\andre\Downloads\proyectoWeb (5)\proyectoWeb\MODELO\bin\Debug\MODELO.dll
+C:\Users\andre\Downloads\proyectoWeb (5)\proyectoWeb\MODELO\bin\Debug\MODELO.pdb
+C:\Users\andre\Downloads\proyectoWeb (5)\proyectoWeb\MODELO\bin\Debug\EntityFramework.dll
+C:\Users\andre\Downloads\proyectoWeb (5)\proyectoWeb\MODELO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\andre\Downloads\proyectoWeb (5)\proyectoWeb\MODELO\bin\Debug\EntityFramework.xml
+C:\Users\andre\Downloads\proyectoWeb (5)\proyectoWeb\MODELO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\andre\Downloads\proyectoWeb (5)\proyectoWeb\MODELO\obj\Debug\MODELO.csproj.CopyComplete
+C:\Users\Naomi\Desktop\landing-page\5\proyectoWeb\proyectoWeb\MODELO\bin\Debug\MODELO.dll.config
+C:\Users\Naomi\Desktop\landing-page\5\proyectoWeb\proyectoWeb\MODELO\bin\Debug\MODELO.dll
+C:\Users\Naomi\Desktop\landing-page\5\proyectoWeb\proyectoWeb\MODELO\bin\Debug\MODELO.pdb
+C:\Users\Naomi\Desktop\landing-page\5\proyectoWeb\proyectoWeb\MODELO\bin\Debug\EntityFramework.dll
+C:\Users\Naomi\Desktop\landing-page\5\proyectoWeb\proyectoWeb\MODELO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Naomi\Desktop\landing-page\5\proyectoWeb\proyectoWeb\MODELO\bin\Debug\EntityFramework.xml
+C:\Users\Naomi\Desktop\landing-page\5\proyectoWeb\proyectoWeb\MODELO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Naomi\Desktop\landing-page\5\proyectoWeb\proyectoWeb\MODELO\obj\Debug\MODELO.csprojAssemblyReference.cache
+C:\Users\Naomi\Desktop\landing-page\5\proyectoWeb\proyectoWeb\MODELO\obj\Debug\MODELO.csproj.CoreCompileInputs.cache
+C:\Users\Naomi\Desktop\landing-page\5\proyectoWeb\proyectoWeb\MODELO\obj\Debug\MODELO.csproj.CopyComplete
+C:\Users\Naomi\Desktop\landing-page\5\proyectoWeb\proyectoWeb\MODELO\obj\Debug\MODELO.dll
+C:\Users\Naomi\Desktop\landing-page\5\proyectoWeb\proyectoWeb\MODELO\obj\Debug\MODELO.pdb
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb\proyectoWeb\MODELO\bin\Debug\MODELO.dll.config
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb\proyectoWeb\MODELO\bin\Debug\MODELO.dll
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb\proyectoWeb\MODELO\bin\Debug\MODELO.pdb
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb\proyectoWeb\MODELO\bin\Debug\EntityFramework.dll
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb\proyectoWeb\MODELO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb\proyectoWeb\MODELO\bin\Debug\EntityFramework.xml
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb\proyectoWeb\MODELO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb\proyectoWeb\MODELO\obj\Debug\MODELO.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb\proyectoWeb\MODELO\obj\Debug\MODELO.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb\proyectoWeb\MODELO\obj\Debug\MODELO.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb\proyectoWeb\MODELO\obj\Debug\MODELO.dll
+C:\Users\Usuario\Desktop\Arlene\sexto semestre\programacion web\nueva\proyectoWeb\proyectoWeb\MODELO\obj\Debug\MODELO.pdb
+D:\documentos\ITH\semestre 6\landing-page\6\proyectoWeb\proyectoWeb\MODELO\bin\Debug\MODELO.dll.config
+D:\documentos\ITH\semestre 6\landing-page\6\proyectoWeb\proyectoWeb\MODELO\bin\Debug\MODELO.dll
+D:\documentos\ITH\semestre 6\landing-page\6\proyectoWeb\proyectoWeb\MODELO\bin\Debug\MODELO.pdb
+D:\documentos\ITH\semestre 6\landing-page\6\proyectoWeb\proyectoWeb\MODELO\bin\Debug\EntityFramework.dll
+D:\documentos\ITH\semestre 6\landing-page\6\proyectoWeb\proyectoWeb\MODELO\bin\Debug\EntityFramework.SqlServer.dll
+D:\documentos\ITH\semestre 6\landing-page\6\proyectoWeb\proyectoWeb\MODELO\bin\Debug\EntityFramework.xml
+D:\documentos\ITH\semestre 6\landing-page\6\proyectoWeb\proyectoWeb\MODELO\bin\Debug\EntityFramework.SqlServer.xml
+D:\documentos\ITH\semestre 6\landing-page\6\proyectoWeb\proyectoWeb\MODELO\obj\Debug\MODELO.csproj.AssemblyReference.cache
+D:\documentos\ITH\semestre 6\landing-page\6\proyectoWeb\proyectoWeb\MODELO\obj\Debug\MODELO.csproj.CoreCompileInputs.cache
+D:\documentos\ITH\semestre 6\landing-page\6\proyectoWeb\proyectoWeb\MODELO\obj\Debug\MODELO.csproj.CopyComplete
+D:\documentos\ITH\semestre 6\landing-page\6\proyectoWeb\proyectoWeb\MODELO\obj\Debug\MODELO.dll
+D:\documentos\ITH\semestre 6\landing-page\6\proyectoWeb\proyectoWeb\MODELO\obj\Debug\MODELO.pdb

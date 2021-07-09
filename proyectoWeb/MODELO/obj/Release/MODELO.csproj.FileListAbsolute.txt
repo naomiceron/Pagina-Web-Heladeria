@@ -1,0 +1,12 @@
+C:\Users\Naomi\Desktop\landing-page\4\proyectoWeb\MODELO\bin\Release\MODELO.dll.config
+C:\Users\Naomi\Desktop\landing-page\4\proyectoWeb\MODELO\bin\Release\MODELO.dll
+C:\Users\Naomi\Desktop\landing-page\4\proyectoWeb\MODELO\bin\Release\MODELO.pdb
+C:\Users\Naomi\Desktop\landing-page\4\proyectoWeb\MODELO\bin\Release\EntityFramework.dll
+C:\Users\Naomi\Desktop\landing-page\4\proyectoWeb\MODELO\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Naomi\Desktop\landing-page\4\proyectoWeb\MODELO\bin\Release\EntityFramework.xml
+C:\Users\Naomi\Desktop\landing-page\4\proyectoWeb\MODELO\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Naomi\Desktop\landing-page\4\proyectoWeb\MODELO\obj\Release\MODELO.csprojAssemblyReference.cache
+C:\Users\Naomi\Desktop\landing-page\4\proyectoWeb\MODELO\obj\Release\MODELO.csproj.CoreCompileInputs.cache
+C:\Users\Naomi\Desktop\landing-page\4\proyectoWeb\MODELO\obj\Release\MODELO.csproj.CopyComplete
+C:\Users\Naomi\Desktop\landing-page\4\proyectoWeb\MODELO\obj\Release\MODELO.dll
+C:\Users\Naomi\Desktop\landing-page\4\proyectoWeb\MODELO\obj\Release\MODELO.pdb

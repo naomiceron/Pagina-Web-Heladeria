@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="GOGOModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Ciudad">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="estado_id" Type="Int32" Nullable="false" />
+    <Property Name="clave" Type="Int32" />
+    <Property Name="nombre" Type="String" MaxLength="76" FixedLength="false" Unicode="false" />
+    <Property Name="abrev" Type="String" MaxLength="6" FixedLength="false" Unicode="false" />
+    <Property Name="activo" Type="Boolean" />
+    <NavigationProperty Name="Estado" Relationship="Self.FK__Ciudad__estado_i__267ABA7A" FromRole="Ciudad" ToRole="Estado" />
+    <NavigationProperty Name="Contacto" Relationship="Self.FK_Usuario_Ciudad" FromRole="Ciudad" ToRole="Contacto" />
+  </EntityType>
+  <EntityType Name="Contacto">
+    <Key>
+      <PropertyRef Name="usuario_id" />
+    </Key>
+    <Property Name="usuario_id" Type="Int32" Nullable="false" />
+    <Property Name="estado_id" Type="Int32" Nullable="false" />
+    <Property Name="ciudad_id" Type="Int32" Nullable="false" />
+    <Property Name="nombre" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="primerApellido" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="segundoApellido" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="email" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="telefono" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="mensaje" Type="String" MaxLength="500" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Ciudad" Relationship="Self.FK_Usuario_Ciudad" FromRole="Contacto" ToRole="Ciudad" />
+    <NavigationProperty Name="Estado" Relationship="Self.FK_Usuario_Usuario" FromRole="Contacto" ToRole="Estado" />
+  </EntityType>
+  <EntityType Name="Estado">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="clave" Type="Int32" />
+    <Property Name="nombre" Type="String" MaxLength="40" FixedLength="false" Unicode="false" />
+    <Property Name="abrev" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="activo" Type="Boolean" />
+    <NavigationProperty Name="Ciudad" Relationship="Self.FK__Ciudad__estado_i__267ABA7A" FromRole="Estado" ToRole="Ciudad" />
+    <NavigationProperty Name="Contacto" Relationship="Self.FK_Usuario_Usuario" FromRole="Estado" ToRole="Contacto" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <Association Name="FK__Ciudad__estado_i__267ABA7A">
+    <End Role="Estado" Type="Self.Estado" Multiplicity="1" />
+    <End Role="Ciudad" Type="Self.Ciudad" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Estado">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Ciudad">
+        <PropertyRef Name="estado_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Usuario_Ciudad">
+    <End Role="Ciudad" Type="Self.Ciudad" Multiplicity="1" />
+    <End Role="Contacto" Type="Self.Contacto" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Ciudad">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Contacto">
+        <PropertyRef Name="ciudad_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Usuario_Usuario">
+    <End Role="Estado" Type="Self.Estado" Multiplicity="1" />
+    <End Role="Contacto" Type="Self.Contacto" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Estado">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="Contacto">
+        <PropertyRef Name="estado_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="GOGOEntities1" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Ciudad" EntityType="Self.Ciudad" />
+    <EntitySet Name="Contacto" EntityType="Self.Contacto" />
+    <EntitySet Name="Estado" EntityType="Self.Estado" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" />
+    <AssociationSet Name="FK__Ciudad__estado_i__267ABA7A" Association="Self.FK__Ciudad__estado_i__267ABA7A">
+      <End Role="Estado" EntitySet="Estado" />
+      <End Role="Ciudad" EntitySet="Ciudad" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Usuario_Ciudad" Association="Self.FK_Usuario_Ciudad">
+      <End Role="Ciudad" EntitySet="Ciudad" />
+      <End Role="Contacto" EntitySet="Contacto" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Usuario_Usuario" Association="Self.FK_Usuario_Usuario">
+      <End Role="Estado" EntitySet="Estado" />
+      <End Role="Contacto" EntitySet="Contacto" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
